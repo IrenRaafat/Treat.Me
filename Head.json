@@ -1,0 +1,731 @@
+{
+  "Head": [
+    {
+      "id": "1",
+      "name": "Carotid angioplasty and stenting",
+      "CardImg": "https://i.postimg.cc/fWqXRx6p/onecard.jpg",
+      "overview": "Carotid angioplasty (kuh-ROT-id AN-jee-o-plas-tee) and stenting are procedures that open clogged arteries to restore blood flow to the brain. They're often performed to treat or prevent strokes.The carotid arteries are located on each side of your neck. These are the main arteries supplying blood to your brain. They can be clogged with fatty deposits (plaque) that slow or block blood flow to the brain — a condition known as carotid artery disease — which can lead to a stroke.The procedure involves temporarily inserting and inflating a tiny balloon into the clogged artery to widen the area so that blood can flow freely to your brain. Carotid angioplasty is often combined with another procedure called stenting. Stenting involves placing a small metal coil (stent) in the clogged artery. The stent helps prop the artery open and decreases the chance of it narrowing again. Carotid angioplasty and stenting may be used when traditional carotid surgery (carotid endarterectomy) isn't possible, or it's too risky.",
+      "chcekListSymptoms1": "Cold sweats, Shortness of breath and Unexplained fatigue or weakness", 
+      "recoveryPeriod": "It generally takes most people a couple of weeks to start returning to their normal activities after angioplasty/stenting. Before you leave hospital, you'll be given detailed instructions for exercise, medications, follow-up appointments, ongoing wound care and resuming normal activities.",
+      "Symptoms": "Carotid angioplasty and stenting may be appropriate stroke treatments or stroke-prevention options if:You have a carotid artery with a blockage of 70% or more, especially if you've had a stroke or stroke symptoms, and you aren't in good enough health to undergo surgery — for example, if you have severe heart or lung disease or had radiation for neck tumors, You have already had a carotid endarterectomy and are experiencing new narrowing after surgery (restenosis). The location of the narrowing (stenosis) is difficult to access with endarterectomy In some cases, carotid endarterectomy may be a better choice than angioplasty and stenting to remove the buildup of fatty deposits (plaque) clogging the artery. You and your doctor will discuss which procedure is safest for you. ",
+      "img1": "https://i.postimg.cc/G222Wfh2/oneimg1.jpg",
+      "img2": "https://i.postimg.cc/yN6cNv8q/oneimg2.jpg"
+    },
+    {
+      "id": "2",
+      "name": "Nonallergic rhinitis",
+      "CardImg": "https://i.postimg.cc/JhDQcpZf/twocard.jpg",
+      "overview": "Nonallergic rhinitis involves sneezing or a stuffy, drippy nose. It can be a long-term problem, and it has no clear cause. The symptoms are like those of hay fever, also called allergic rhinitis. But nonallergic rhinitis isn't caused by allergies. Nonallergic rhinitis can affect children and adults. But it's more common after age 20. Factors that trigger the symptoms vary from person to person. The triggers can include some: Dust, fumes and other irritants in the air. Weather changes, Medicines, Hot or spicy foods, Long-term health problems. Health care providers often first make sure a person's symptoms aren't caused by allergies. So you may need skin or blood tests to find out if you have allergic rhinitis.",
+      "chcekListSymptoms1": "Sneezing, Cough and Stuffy or runny nose",
+      "recoveryPeriod": "Nonallergic Rhinitis Causes and Risk Factors. Usually it starts in adulthood, and symptoms can last year-round. Unlike allergic rhinitis, nonallergic rhinitis does not involve the immune system.",
+      "Symptoms": "Nonallergic rhinitis symptoms often come and go year-round. Your symptoms might include:Stuffy or runny nose, Sneezing, Mucus in the throat, Cough. Nonallergic rhinitis most often doesn't cause an itchy nose, eyes or throat. That symptom is linked with allergies such as hay fever. ",
+      "img1": "https://i.postimg.cc/3RjmnVRc/twoimg1.jpg",
+      "img2": "https://i.postimg.cc/4xhKWq2Q/twoimg2.jpg"
+    },
+    {
+      "id": "3",
+      "name": "tonsillitis",
+      "CardImg": "https://i.postimg.cc/GtyN7vV2/third-Card.jpg",
+      "overview": "Tonsillitis is inflammation of the tonsils, two oval-shaped pads of tissue at the back of the throat — one tonsil on each side. Signs and symptoms of tonsillitis include swollen tonsils, sore throat, difficulty swallowing and tender lymph nodes on the sides of the neck. Most cases of tonsillitis are caused by infection with a common virus, but bacterial infections also may cause tonsillitis. Because appropriate treatment for tonsillitis depends on the cause, it's important to get a prompt and accurate diagnosis. Surgery to remove tonsils, once a common procedure to treat tonsillitis, is usually performed only when tonsillitis occurs frequently, doesn't respond to other treatments or causes serious complications.",
+      "chcekListSymptoms1": "Sore throat, Stomachache and Headache",
+      "recoveryPeriod": "Most cases of viral tonsillitis clear up in a few days with fluids and plenty of rest. Antibiotics typically eliminate bacterial tonsillitis in about 10 days. Tonsillitis usually doesn't cause any serious or lasting health problems.",
+      "Symptoms": "Tonsillitis most commonly affects children between preschool ages and the midteenage years. Common signs and symptoms of tonsillitis include: Red, swollen tonsils, White or yellow coating or patches on the tonsils, Sore throat, Difficult or painful swallowing, Fever, Enlarged, tender glands (lymph nodes) in the neck A scratchy, muffled or throaty voice, Bad breath, Stomachache, Neck pain or stiff neck, Headache. In young children who are unable to describe how they feel, signs of tonsillitis may include: Drooling due to difficult or painful swallowing, Refusal to eat and Unusual fussiness.",
+      "img1": "https://i.postimg.cc/yN8GqMt2/third-Img1.jpg",
+      "img2": "https://i.postimg.cc/NFmJ7B22/thirdimg2.jpg"
+    },
+    {
+      "id": "4",
+      "name": "laryngitis",
+      "CardImg": "https://i.postimg.cc/zXZNKfH7/fourcard.jpg",
+      "overview": "Laryngitis is an inflammation of your voice box (larynx) from overuse, irritation or infection. Inside the larynx are your vocal cords — two folds of mucous membrane covering muscle and cartilage. Normally, your vocal cords open and close smoothly, forming sounds through their movement and vibration.",
+      "chcekListSymptoms1": "Hoarseness, Sore throat and Dry throat",
+      "recoveryPeriod": "Laryngitis usually goes away on its own in a week or two. The best way to recover from laryngitis is to rest your voice and drink plenty of fluids. In some cases, your healthcare provider may prescribe medications to speed up the recovery process.",
+      "Symptoms": "In most cases laryngitis symptoms last less than a couple of weeks and are caused by something minor, such as a virus. Less often, laryngitis symptoms are caused by something more serious or long lasting. Laryngitis signs and symptoms can include: Hoarseness, Weak voice or voice loss, Tickling sensation and rawness in your throat, Sore throat, Dry throat and Dry cough.",
+      "img1": "https://i.postimg.cc/13M1kcC7/fourimg1.jpg",
+      "img2": "https://i.postimg.cc/FRMMyPzz/fourimg2.jpg"
+    },
+    {
+      "id": "5",
+      "name": "tracheitis",
+      "CardImg": "https://i.postimg.cc/Gh8Bh9wj/fifth-Card.jpg",
+      "overview": "Tracheitis is an infection of the windpipe (trachea) that makes breathing difficult. A rare but serious complication of an upper respiratory tract infection, it is more common in children—their smaller tracheas are more easily blocked by swelling.",
+      "chcekListSymptoms1": "Stridor when breathing in, Wheezing when breathing out and Cough",
+      "recoveryPeriod": "Children usually take between three and 12 days in the hospital to recover. Usually, they recover with no permanent damage. However, there are cases in which children exhibit a subtle narrowing of their airways. This occurs after a patient has gotten any sort of tubular assistance in breathing.",
+      "Symptoms": "Cough that sounds “croupy,” and the child may cough up secretions Breathing difficulties, Stridor when breathing in (common), Wheezing when breathing out (uncommon), High fever, usually greater than 102 F Blue lips (a sign of cyanosis or low oxygen levels), if the ability to breathe is deteriorating",
+      "img1": "https://i.postimg.cc/KYNjsMBm/fifthimg1.jpg",
+      "img2": "https://i.postimg.cc/0rR9NkDt/fifthimg2.jpg"
+    }
+  ],
+
+  "legs": [
+    {
+      "id": "1",
+      "name": "Edema",
+      "CardImg": "https://i.postimg.cc/RFnvcJSS/onecard.jpg",
+      "overview": "Edema is swelling caused by too much fluid trapped in the body's tissues. Edema can affect any part of the body. But it's more likely to show up in the legs and feet. Medicines and pregnancy can cause edema. It also can be the result of a disease, such as congestive heart failure, kidney disease, venous insufficiency or cirrhosis of the liver. Wearing compression garments and reducing salt in the diet often relieves edema. When a disease causes edema, the disease needs treatment, as well.",
+      "chcekListSymptoms1": "Stretched or shiny skin, Skin that holds a dimple and Swelling of the belly",
+      "recoveryPeriod": "Depending on the cause of your diagnosis, edema could be temporary or permanent. Swelling normally lasts for a few days. In the first two days, you will experience the most swelling, and it should start to reduce by the third day.",
+      "Symptoms": "Swelling or puffiness of the tissue right under the skin, especially in legs or arms. Stretched or shiny skin., Skin that holds a dimple, also known as pitting, after it's been pressed for a few seconds, Swelling of the belly, also called the abdomen, so that it's bigger than usual, Feeling of leg heaviness.",
+      "img1": "https://i.postimg.cc/t4CyBMqm/oneimg1.jpg",
+      "img2": "https://i.postimg.cc/GhznTxFP/oneimg2.jpg"
+    },
+    {
+      "id": "2",
+      "name": "Peripheral Artery Disease (PAD)",
+      "CardImg": "https://i.postimg.cc/d14BpN2b/secondcardjpg.jpg",
+      "overview": "In peripheral artery disease (PAD), the legs or arms — usually the legs — don't receive enough blood flow to keep up with demand. This may cause leg pain when walking (claudication) and other symptoms.Peripheral artery disease is usually a sign of a buildup of fatty deposits in the arteries (atherosclerosis). Atherosclerosis causes narrowing of the arteries that can reduce blood flow in the legs and, sometimes, the arms.Peripheral artery disease treatment includes exercising, eating a healthy diet and not smoking or using tobacco.",
+      "chcekListSymptoms1": "Erectile dysfunction, Shiny skin on the legs andLeg numbness or weakness",
+      "recoveryPeriod": "It can take six to eight weeks to recover completely from peripheral artery bypass surgery.",
+      "Symptoms": "Many people with peripheral artery disease have mild or no symptoms. Some people have leg pain when walking (claudication). Claudication symptoms include muscle pain or cramping in the legs or arms that begins during exercise and ends with rest. The pain is most commonly felt in the calf. The pain ranges from mild to severe. Severe leg pain may make it hard to walk or do other types of physical activity.Other peripheral artery disease symptoms may include: Coldness in the lower leg or foot, especially when compared with the other side, Leg numbness or weakness, No pulse or a weak pulse in the legs or feet, Painful cramping in one or both of the hips, thighs or calf muscles after certain activities, such as walking or climbing stairs, Shiny skin on the legs, Skin color changes on the legs, Slower growth of the toenails, Sores on the toes, feet or legs that won't heal, Pain when using the arms, such as aching and cramping when knitting, writing or doing other manual tasks, Erectile dysfunction, Hair loss or slower hair growth on the legs. If peripheral artery disease gets worse, pain may occur during rest or when lying down. The pain may interrupt sleep. Hanging the legs over the edge of the bed or walking may temporarily relieve the pain.",
+      "img1": "https://i.postimg.cc/3JPZsvGx/secondimg1.jpg",
+      "img2": "https://i.postimg.cc/zvhkvDZr/secondimg2.jpg"
+    },
+    {
+      "id": "3",
+      "name": "Pelvic Congestion Syndrome (PCS)",
+      "CardImg": "https://i.postimg.cc/3xJC7gBX/third-Card.jpg",
+      "overview": "Pelvic congestion syndrome (PCS) is a common cause of chronic pelvic pain in women of reproductive age. Pain that is intermittent or constant lasting for 3-6 months, present in the pelvic or abdominal region, occurring throughout the menstrual cycle, and without any association with pregnancy is chronic pelvic pain. This activity outlines the evaluation and management of pelvic congestion syndrome and highlights the role of the interprofessional team in the care of patients with this condition",
+      "chcekListSymptoms1": "Varicose veins in your pelvis, Before and during your period and When you stand or sit for long periods (but it feels better when you lie down).",
+      "recoveryPeriod": "It takes 2-4 weeks for women to feel the benefits of the treatment, and most patients remain symptom-free for many years.",
+      "Symptoms": "The pelvic pain you experience with PCS may feel dull, achy or heavy. Less commonly, the pain may feel sharp and intense. You may notice the pain on the left side only (most common), on the right side of your body or both sides. Often, pain starts during or soon after pregnancy. It may worsen with future pregnancies.The pain associated with PCS may feel worse: At the end of the day, Before and during your period., During intercourse and afterward (dyspareunia), When you stand or sit for long periods (but it feels better when you lie down). Other symptoms include:Varicose veins in your pelvis, butt, thighs, vulva and vagina, Frequent bouts of diarrhea and constipation (irritable bowel), Peeing accidentally from laughing, coughing or other movements that stress your bladder (stress incontinence), Pain when you pee (dysuria).",
+      "img1": "https://i.postimg.cc/fR27bJ26/thirdimg1.jpg",
+      "img2": "https://i.postimg.cc/PqCWvT0N/thirdimg2.jpg"
+    },
+    {
+      "id": "4",
+      "name": "May-Thurner Syndome (MTS)",
+      "CardImg": "https://i.postimg.cc/tCR2CQRn/fourth-Card.jpg",
+      "overview": "May-Thurner syndrome is a rare vascular condition that affects a vein in your pelvis. It occurs when a nearby artery compresses the left iliac vein. This vein brings blood from your pelvis and legs back up to your heart. The compression prevents blood from flowing properly, leading to narrowing and scarring. In some cases, an artery can compress the right iliac vein, or both veins.",
+      "chcekListSymptoms1": "Swelling, heaviness and fullness in your leg or foot",
+      "recoveryPeriod": "The recovery time from venoplasty, which is a common treatment for May-Thurner syndrome, can vary depending on the individual. As an outpatient procedure with no general anesthesia, patients can return home on the same day of treatment and resume their normal routine within 24 hours.",
+      "Symptoms": "Symptoms can include Swelling, heaviness, or fullness in your leg or foot, Venous ulcers or sores that do not heal on your leg., Varicose veins in your leg.In some cases, May-Thurner syndrome has no symptoms and patients go undiagnosed until they develop deep vein thrombosis (DVT). Symptoms of DVT can include Leg swelling, Leg pain and tenderness, Redness or other changes in skin color and Skin that feels warm.",
+      "img1": "https://i.postimg.cc/8Pyw7KsK/fourth-Img1.jpg",
+      "img2": "https://i.postimg.cc/Z52ccW86/fourthimg2.jpg"
+    },
+    {
+      "id": "5",
+      "name": "Deep Vein Thrombosis (DVT)",
+      "CardImg": "https://i.postimg.cc/ZKh0r4v0/fifth-Card.jpg",
+      "overview": "Deep vein thrombosis (DVT) occurs when a blood clot (thrombus) forms in one or more of the deep veins in the body, usually in the legs. Deep vein thrombosis can cause leg pain or swelling. Sometimes there are no noticeable symptoms.You can get deep vein thrombosis (DVT) if you have certain medical conditions that affect how the blood clots. A blood clot in the legs can also develop if you don't move for a long time. For example, you might not move a lot when traveling a long distance or when you're on bed rest due to surgery, an illness or an accident.Deep vein thrombosis can be serious because blood clots in the veins can break loose. The clots can then travel through the bloodstream and get stuck in the lungs, blocking blood flow (pulmonary embolism). When DVT and pulmonary embolism occur together, it's called venous thromboembolism (VTE).",
+      "chcekListSymptoms1": "Leg swelling, Leg pain and A feeling of warmth on the affected leg",
+      "recoveryPeriod": "Most people are fully healed from a deep vein thrombosis (DVT) within a few weeks or months.",
+      "Symptoms": "Deep vein thrombosis (DVT) symptoms can include Leg swelling, Leg pain, cramping or soreness that often starts in the calf, Change in skin color on the leg such as red or purple, depending on the color of your skin, A feeling of warmth on the affected leg and Deep vein thrombosis can occur without noticeable symptoms.",
+      "img1": "https://i.postimg.cc/LshsHswQ/fifth-Img1.jpg",
+      "img2": "https://i.postimg.cc/wBPj3pdq/fifth-Img2.jpg"
+    }
+  ],
+
+"Hands": [
+
+    {
+
+      "id": "1",
+
+      "name": "Carpal tunnel syndrome (CTS)",
+
+      "CardImg": "https://i.postimg.cc/rm51Vgtp/first-Card.jpg",
+
+      "overview": "Carpal tunnel syndrome (CTS) is a common neurological disorder that occurs when the median nerve, which runs from your forearm into the palm of the hand, becomes pressed or squeezed at the wrist. You may feel numbness, weakness, pain in your hand and wrist, and your fingers may become swollen and useless. You might wake up and feel you need to “shake out” your hand or wrist.The median nerve and the tendons that bend the fingers pass through the carpal tunnel—a narrow, rigid passageway of ligament and bones at the base of the hand. The median nerve provides feeling to the thumb, index, and middle finger, and part of the ring finger (but not the little finger). It also controls some small muscles at the base of the thumb.Sometimes, thickening from the lining of irritated tendons or other swelling narrows the tunnel and compresses the median nerve. CTS is the most common and widely known of the entrapment neuropathies, in which one of the body's peripheral nerves is pressed on or squeezed. You can sometimes treat carpal tunnel syndrome at home, but it may take months to heal. Your doctor can recommend treatments. CTS rarely recurs following treatment and home care.",
+
+      "chcekListSymptoms1": "Numbness, A feeling the fingers are useless and A tingling sensation or pain in the fingers",
+
+      "recoveryPeriod": "It usually takes 3 to 4 months to recover and up to 1 year before hand strength returns. How much strength returns will vary. The timing of your return to work depends on the type of surgery you had, whether the surgery was on your dominant hand (the hand you use most), and your work activities.",
+
+      "Symptoms": "Symptoms usually start gradually, with frequent numbness or tingling in the fingers, especially the thumb and the index and middle fingers. Symptoms often first appear in one or both hands during the night. The dominant hand is usually affected first and procures the most severe symptoms. Early symptoms include Numbness, particularly at night, A feeling the fingers are useless or swollen, A tingling sensation or pain in the fingers, As symptoms worsen, people might feel Tingling during the day, especially with certain activities such as talking on the phone, reading a book or newspaper, or driving Mild to severe pain, sometimes worse at night , Some loss of movement in the hand, Hand weakness may make it difficult to grasp small objects or perform other manual tasks, In chronic and/or untreated cases, the muscles at the base of the thumb may shrink and waste away. Some people with very severe CTS cannot determine between hot and cold by touch and may burn their fingertips without knowing it.",
+
+      "img1": "https://i.postimg.cc/59qBD7V7/first-Img1.jpg",
+
+      "img2": "https://i.postimg.cc/02Vpyzr7/first-Img2.jpg"
+
+    },
+
+    {
+
+      "id": "2",
+
+      "name": "Arthritis",
+
+      "CardImg": "https://i.postimg.cc/Hnw1tG8C/secondcard.jpg",
+
+      "overview": "Arthritis is defined as an acute or chronic joint inflammation in the joint. Arthritis may attribute to a wide variety of symptoms that include pain, stiffness, decreased range of motion, and joint deformities. There are several different types of arthritis, with management being different for each. History and physical examination are crucial in recognizing the type of arthritis, while additional laboratory and imaging may sometimes be necessary for confirming the diagnosis. This activity outlines the evaluation and treatment of arthritis and explains the role of the interprofessional team in managing patients with this condition.",
+
+      "chcekListSymptoms1": "joint pain, tenderness and stiffness, restricted movement of the joints and warm red skin over the affected joint",
+
+      "recoveryPeriod": "Most people diagnosed with reactive arthritis find they have good days and bad days. It usually clears up within six months without leaving any lasting problems. However, a small number of people do go on to develop another type of arthritis that needs long-term treatment.",
+
+      "Symptoms": "There are lots of different types of arthritis.The symptoms you experience will vary depending on the type you have.This is why it's important to have an accurate diagnosis if you have joint pain, tenderness and stiffness, inflammation in and around the joints, restricted movement of the joints, warm red skin over the affected joint, And weakness and muscle wasting.",
+
+      "img1": "https://i.postimg.cc/G3GRRD7S/second-Img1.jpg",
+
+      "img2": "https://i.postimg.cc/jdhrwbrH/second-Img2.jpg"
+
+    },
+
+    {
+
+      "id": "3",
+
+      "name": "Trigger Finger",
+
+      "CardImg": "https://i.postimg.cc/qqPgNdVV/third-Card.jpg",
+
+      "overview": "Trigger finger makes a finger get stuck in a bent position. It may straighten suddenly with a snap. The fingers most often affected are the ring finger and the thumb, but the condition can affect any finger.Trigger finger happens when the tendon that controls that finger can't glide smoothly in the sheath that surrounds it. This may occur if part of the tendon sheath becomes swollen or if a small lump forms on the tendon.The condition is most common in women over the age of 50. You may be at higher risk of trigger finger if you have diabetes, low thyroid function or rheumatoid arthritis.Treatment of trigger finger can include splinting, steroid injections or surgery.",
+
+      "chcekListSymptoms1": "Finger stiffness, A popping or clicking sensation as the finger moves and Finger locked in a bent position",
+
+      "recoveryPeriod": "Your doctor will take out your stitches 1 to 2 weeks after surgery. It will probably take about 6 weeks for your finger to heal completely. After it heals, your finger may move easily without pain. How soon you can return to work depends on your job.",
+
+      "Symptoms": "Symptoms of trigger finger may progress from mild to severe and include Finger stiffness, particularly in the morning, A popping or clicking sensation as the finger moves, Tenderness or a bump in the palm at the base of the affected finger, Finger catching or locking in a bent position, which suddenly pops straight.Finger locked in a bent position, Trigger finger can affect any finger, including the thumb. More than one finger may be affected at a time, and both hands might be involved. Triggering is usually worse in the morning.",
+
+      "img1": "https://i.postimg.cc/TwS3sXPL/third-Img1.jpg",
+
+      "img2": "https://i.postimg.cc/y6kjtqjV/third-Img2.jpg"
+
+    },
+
+    {
+
+      "id": "4",
+
+      "name": "Dupuytren's Disease",
+
+      "CardImg": "https://i.postimg.cc/NFDrLj7y/fourthcard.jpg",
+
+      "overview": "Dupuytren contracture is a condition that causes one or more fingers to bend toward the palm of the hand. The affected fingers can't straighten completely.Knots of tissue form under the skin. They eventually create a thick cord that can pull the fingers into a bent position. The condition gradually gets worse with time. Dupuytren contracture most often affects the two fingers farthest from the thumb. This can complicate everyday activities such as placing your hands in your pockets, putting on gloves or shaking hands.There's no cure for Dupuytren contracture. Treatments can relieve symptoms and slow how quickly the condition gets worse",
+
+      "chcekListSymptoms1": "Not being able to lay your hand flat on a table, The nodules may thicken and contract or tighten and Fingers are pulled forward",
+
+      "recoveryPeriod": "Recovery time is between 4 – 12 weeks, depending on the severity of the finger condition. In most cases that we experience, surgery is the best form of treatment and the most effective and accurate in preventing contracture returning. Risks with surgery can include bleeding, numbness, and a chance of infection.",
+
+      "Symptoms": "Dupuytren contracture gets worse slowly, over years. The condition begins with a firm lump in the palm of the hand. This lump can be painful or painless.Over time, the lump can extend into a hard cord under the skin and up into the finger. This cord tightens and pulls the finger toward the palm, sometimes severely. Dupuytren contracture most commonly affects the two fingers farthest from the thumb. The condition often occurs in both hands.",
+
+      "img1": "https://i.postimg.cc/xCSkRz6J/fourthimg1.jpg",
+
+      "img2": "https://i.postimg.cc/4x9NS37z/fourthimg2.jpg"
+
+    },
+
+    {
+
+      "id": "5",
+
+      "name": "Ganglion cysts",
+
+      "CardImg": "https://i.postimg.cc/zBJxQVBv/fifth-Card.jpg",
+
+      "overview": "Ganglion cysts are lumps that most commonly develop in the wrist. They're typically round or oval and are filled with a jellylike fluid. Ganglion cysts are lumps that most often appear along the tendons or joints of wrists or hands. They also can occur in ankles and feet.",
+
+      "chcekListSymptoms1": "Appearance of a lump, Pain is not usually intense if there’s pain at all and Skin over the cyst may feel smooth, round, and rubbery",
+
+      "recoveryPeriod": "Depending on the location of the ganglion cyst and the type of treatment used to remove or shrink it, full recovery can take two to eight weeks. During this time, your NYU Langone doctor may advise you to use the affected wrist, hand, ankle, or foot lightly and avoid any activities that may irritate the affected area",
+
+      "Symptoms": "Ganglion cysts don’t usually hurt, but there are some symptoms your child may notice.Appearance of a lump, Pressure or pain when bending the joint if a cyst is big, Discomfort, tingling, or numbness if the cyst is pressing on a nerve, Pain is not usually intense if there’s pain at all, Skin over the cyst may feel smooth, round, and rubbery, Less range of motion where the cyst is or less strength to grip things.",
+
+      "img1": "https://i.postimg.cc/Xvg8948b/fifthimg1.jpg",
+
+      "img2": "https://i.postimg.cc/59QsRd9w/fifthimg2.jpg"
+
+    }
+
+  ],
+
+"chest": [
+
+    {
+
+      "id": "1",
+
+      "name": "Angina",
+
+      "CardImg": "https://i.postimg.cc/bJ9MVcyG/anginacard.jpg",
+
+      "overview": "(an-JIE-nuh or AN-juh-nuh) is a type of chest pain caused by reduced blood flow to the heart. Angina is a symptom of coronary artery disease.Angina is also called angina pectoris,Angina pain is often described as squeezing, pressure, heaviness, tightness or pain in the chest. It may feel like a heavy weight lying on the chest. Angina may be a new pain that needs to be checked by a health care provider, or recurring pain that goes away with treatment.Although angina is relatively common, it can still be hard to distinguish from other types of chest pain, such as the discomfort of indigestion. If you have unexplained chest pain, seek medical help right away",
+
+      "chcekListSymptoms1": "Dizziness, Fatigue and Sweating",
+
+      "recoveryPeriod": "takes anywhere from two weeks to three months. During this time, it’s important to begin adopting lifestyle changes that can lower your risk of a future heart attack. These include adding more exercise to your day, following a heart-healthy diet and quitting smoking. A cardiac rehab program can help you take those first steps.",
+
+      "Symptoms": "symptoms include chest pain and discomfort. The chest pain or discomfort may feel like:Burning Fullness Pressure Squeezing Pain may also be felt in the arms, neck, jaw, shoulder or back.Other symptoms of angina include:Dizziness,FatigueNausea Shortness of breath, be triggered by physical exertion and Sweating ",
+
+      "img1": "https://i.postimg.cc/43zFnkh8/anginaimg1.jpg",
+
+      "img2": "https://i.postimg.cc/28RGbXrM/anginaimg2.jpg"
+
+    },
+
+    {
+
+      "id": "2",
+
+      "name": "Acute Myocardial Infarction",
+
+      "CardImg": "https://i.postimg.cc/5NhbYztn/secondcard.jpg",
+
+      "overview": "Acute myocardial infarction is one of the leading causes of death in the developed world. The prevalence of the disease approaches three million people worldwide, with more than one million deaths in the United States annually. Acute myocardial infarction can be divided into two categories, non-ST segment elevation MI (NSTEMI) and ST-segment elevation MI (STEMI).Unstable angina is similar to NSTEMI. However, cardiac markers are not elevated.",
+
+      "chcekListSymptoms1": "nausea, vomiting and anxiety",
+
+      "recoveryPeriod": "Studies have led to better therapies and more information about the heart after a heart attack or myocardial infarction (MI). Most patients stay in the hospital for about a week or less.Upon returning home, you will need rest and relaxation. A return to all of your normal activities, including work, may take a few weeks to 2 or 3 months, depending on your condition.A full recovery is defined as a return to normal activities. This will depend on how active you were before your heart attack, the severity of the attack, and your body’s response to it. You will recover quicker if you avoid stress, temperature extremes, and conditions that place an added load on your heart.",
+
+      "Symptoms": "While the classic symptoms of a heart attack are chest pain and shortness of breath, the symptoms can be quite varied. The most common symptoms of a heart attack includeTrusted Source:pressure or tightness in the chest, pain in the chest, back, jaw, and other areas of the upper body that lasts more than a few minutes or that goes away and comes back shortness of breath, sweating, nausea, vomiting, anxiety, feeling like you’re going to faint a fast heart rate sense of impending doom, It’s important to note that not all people who have heart attacks experience the same symptoms or the same severity of symptoms. Chest pain is the most commonly reported symptom among both women and men. However, women are a bit more likelyTrusted Source than men to have more of the “atypical” symptoms, such as:shortness of breath,  jaw pain, upper back pain, lightheadedness, nausea, vomiting In fact, some women who have had a heart attack report that their symptoms felt like the symptoms of the flu.",
+
+      "img1": "https://i.postimg.cc/5yH5rTL5/seondimg1.jpg",
+
+      "img2": "https://i.postimg.cc/vmssZdmB/secondimg2.jpg"
+
+    },
+
+    {
+
+      "id": "3",
+
+      "name": "Arteriosclerosis",
+
+      "CardImg": "https://i.postimg.cc/65hQmGkH/third-Card.jpg",
+
+      "overview": "Arteriosclerosis and atherosclerosis are sometimes used to mean the same thing, but there's a difference between the two terms.Arteriosclerosis occurs when the blood vessels that carry oxygen and nutrients from the heart to the rest of the body (arteries) become thick and stiff — sometimes restricting blood flow to the organs and tissues. Healthy arteries are flexible and elastic. But over time, the walls in the arteries can harden, a condition commonly called hardening of the arteries.Atherosclerosis is a specific type of arteriosclerosis.Atherosclerosis is the buildup of fats, cholesterol and other substances in and on the artery walls. This buildup is called plaque. The plaque can cause arteries to narrow, blocking blood flow. The plaque can also burst, leading to a blood clot.Although atherosclerosis is often considered a heart problem, it can affect arteries anywhere in the body. Atherosclerosis can be treated. Healthy lifestyle habits can help prevent atherosclerosis.",
+
+      "chcekListSymptoms1": "weakness in your arms or legs, temporary loss of vision in one eye and kidney failure",
+
+      "recoveryPeriod": "According to a 2020 studyTrusted Source, researchers noted stabilization of existing plaques in people with atherosclerosis and stable angina within 30 days of taking medications for high cholesterol. Shrinking of plaques was seen 1 to 2 years later. ",
+
+      "Symptoms": "Mild atherosclerosis usually doesn't have any symptoms, Atherosclerosis symptoms usually don't happen until an artery is so narrowed or clogged that it can't supply enough blood to organs and tissues. Sometimes a blood clot completely blocks blood flow. The clot may break apart and can trigger a heart attack or stroke. Symptoms of moderate to severe atherosclerosis depend on which arteries are affected. For example:If you have atherosclerosis in your heart arteries, you may have chest pain or pressure (angina), If you have atherosclerosis in the arteries leading to your brain, you may have sudden numbness or weakness in your arms or legs, difficulty speaking or slurred speech, temporary loss of vision in one eye, or drooping muscles in your face. These signal a transient ischemic attack (TIA). Untreated, a TIA can lead to a stroke.If you have atherosclerosis in the arteries in your arms and legs, you may have symptoms of peripheral artery disease, such as leg pain when walking (claudication) or decreased blood pressure in an affected limb. If you have atherosclerosis in the arteries leading to your kidneys, you may develop high blood pressure or kidney failure.",
+
+      "img1": "https://i.postimg.cc/rp7yrG4p/thirdimg1.jpg",
+
+      "img2": "https://i.postimg.cc/QdwZ48d4/thirdimg2.jpg"
+
+    },
+
+    {
+
+      "id": "4",
+
+      "name": "Rheumatic fever",
+
+      "CardImg": "https://i.postimg.cc/zvgd0g0p/fourthcard.jpg",
+
+      "overview": "Rheumatic fever is an inflammatory disease that can develop when strep throat or scarlet fever isn't properly treated. Strep throat and scarlet fever are caused by an infection with streptococcus (strep-toe-KOK-us) bacteria.Rheumatic fever most often affects children ages 5 to 15. But it can develop in younger children and adults. Although strep throat is common, rheumatic fever is rare in the United States and other developed countries.Rheumatic fever can cause permanent damage to the heart, including damaged heart valves and heart failure. Treatment can ease pain, reduce damage from inflammation and prevent a recurrence of rheumatic fever.",
+
+      "chcekListSymptoms1": "Fever, Chest pain and Fatigue",
+
+      "recoveryPeriod": "Most people usually make a full recovery by about 3 months. But it can sometimes take longer to get better.",
+
+      "Symptoms": "Rheumatic fever symptoms result from inflammation in the heart, joints, skin or central nervous system. There may be few symptoms or several. Symptoms can change during the course of the disease. The onset of rheumatic fever usually occurs about 2 to 4 weeks after a strep throat infection.Rheumatic fever signs and symptoms can include:Fever, Painful and tender joints — most often in the knees, ankles, elbows and wrists, Pain in one joint that migrates to another joint, Red, hot or swollen joints, Chest pain, Fatigue, Flat or slightly raised, painless rash with a ragged edge, Heart murmur Jerky, uncontrollable body movements (Sydenham chorea) — most often in the hands, feet and face Outbursts of unusual behavior, such as crying or inappropriate laughing, that accompanies Sydenham chorea Small, painless bumps beneath the skin.",
+
+      "img1": "",
+
+      "img2": ""
+
+    },
+
+    {
+
+      "id": "5",
+
+      "name": "bronchitis",
+
+      "CardImg": "https://i.postimg.cc/BQ1zSd5k/fifth-Card.jpg",
+
+      "overview": "Bronchitis is an inflammation of the lining of your bronchial tubes, which carry air to and from your lungs. People who have bronchitis often cough up thickened mucus, which can be discolored. Bronchitis may be either acute or chronic. Often developing from a cold or other respiratory infection, acute bronchitis is very common. Chronic bronchitis, a more serious condition, is a constant irritation or inflammation of the lining of the bronchial tubes, often due to smoking.Acute bronchitis, also called a chest cold, usually improves within a week to 10 days without lasting effects, although the cough may linger for weeks, However, if you have repeated bouts of bronchitis, you may have chronic bronchitis, which requires medical attention. Chronic bronchitis is one of the conditions included in chronic obstructive pulmonary disease (COPD).",
+
+      "chcekListSymptoms1": "Cough, Shortness of breath and Slight fever and chills",
+
+      "recoveryPeriod": "Most people get over bronchitis in about two weeks, but it might take as long as three to six weeks. You can manage your symptoms at home with over-the-counter medicines while you get better. If you don't feel better after three weeks, see your healthcare provider.",
+
+      "Symptoms": "For either acute bronchitis or chronic bronchitis, signs and symptoms may include:Cough, Production of mucus (sputum), which can be clear, white, yellowish-gray or green in color — rarely, it may be streaked with blood, Fatigue, Shortness of breath, Slight fever and chills, Chest discomfort If you have acute bronchitis, you might have cold symptoms, such as a mild headache or body aches. While these symptoms usually improve in about a week, you may have a nagging cough that lingers for several weeks. Chronic bronchitis is defined as a productive cough that lasts at least three months, with recurring bouts occurring for at least two consecutive years. If you have chronic bronchitis, you're likely to have periods when your cough or other symptoms worsen. At those times, you may have an acute infection on top of chronic bronchitis. When to see a doctor See your doctor if your cough:Lasts more than three weeks, Prevents you from sleeping, Is accompanied by fever higher than 100.4 F (38 C), Produces discolored mucus, Produces blood Is associated with wheezing or shortness of breath",
+
+      "img1": "https://i.postimg.cc/WzpJWLN3/fifth-Img1.jpg",
+
+      "img2": "https://i.postimg.cc/7hgw2f8J/fifthimg2.jpg"
+
+    }
+
+  ],
+
+"shoulder": [
+    {
+
+      "id": "1",
+
+      "name": "Rotator cuff",
+
+      "CardImg": "https://i.postimg.cc/Lsb9yG57/oneCard.jpg",
+
+      "overview": "The rotator cuff is a group of muscles and tendons that surround the shoulder joint, keeping the head of the upper arm bone firmly within the shallow socket of the shoulder. A rotator cuff injury can cause a dull ache in the shoulder that worsens at night.Rotator cuff injuries are common and increase with age. These injuries may occur earlier in people who have jobs that require repeatedly performing overhead motions, such as painters and carpenters.",
+
+      "chcekListSymptoms1": "Disturb sleep, Be accompanied by arm weakness and Make it difficult to comb your hair or reach behind your back",
+
+      "recoveryPeriod": "Usually, mild rotator cuff tears or sprains will heal within four weeks. In other severe cases, the recovery might take 4 to 6 months or even longer based on several factors such as the severity of the tear, age, and other health complications.",
+
+      "Symptoms": "The pain associated with a rotator cuff injury may:Be described as a dull ache deep in the shoulder, Disturb sleep, Make it difficult to comb your hair or reach behind your back, Be accompanied by arm weakness, Some rotator cuff injuries don't cause pain.",
+
+      "img1": "https://i.postimg.cc/x1snCBvC/oneimg1.jpg",
+
+      "img2": "https://i.postimg.cc/8C28fGj1/oneimg2.jpg"
+
+    },
+
+    {
+
+      "id": "2",
+
+      "name": "Impingement",
+
+      "CardImg": "https://i.postimg.cc/sDY0wS1C/secondcard-F.jpg",
+
+      "overview": "Shoulder impingement syndrome (SIS) is a condition that causes shoulder pain. To diagnose SIS, health care providers look for a specific set of shoulder symptoms and certain clinical findings, which together suggest that the patient has the condition. In SIS, a part of a person’s shoulder is compressed against another part, and this causes pain with some shoulder movements.",
+
+      "chcekListSymptoms1": "Pain when lifting your arm, lowering your arm from a raised position or when reaching, Pain and tenderness in the front of your shoulder and Pain when your arms are extended above your head",
+
+      "recoveryPeriod": "It is normal to feel discomfort when lifting items or raising the shoulder high for the first 6 to 8 weeks. Full recovery is from 4 to 6 months. There will be no restrictions imposed on what you can do with the arm during the recovery period, within the limits of pain.",
+
+      "Symptoms": "Symptoms of shoulder impingement syndrome include:Pain when your arms are extended above your head, Pain when lifting your arm, lowering your arm from a raised position or when reaching, Pain and tenderness in the front of your shoulder., Pain that moves from the front of your shoulder to the side of your arm., Pain when lying on the affected side., Pain or achiness at night, which affects your ability to sleep, Pain when reaching behind your back, like reaching into a back pocket or zipping up a zipper, Shoulder and/or arm weakness and stiffness, Symptoms usually develop gradually over weeks to months. Shoulder impingement is closely related to other common sources of pain in the shoulder called bursitis and rotator cuff tendonitis. These conditions can occur alone or in combination. Shoulder pain can also be a sign of a more serious injury to your rotator cuff, a small tear or hole called a rotator cuff tear. If your rotator cuff has torn completely, you’ll likely have significant weakness and may not be able to raise your arm against gravity. In addition, you may have a rupture (tear) of your biceps muscle tendon as part of this continuing impingement process.",
+
+      "img1": "https://i.postimg.cc/7L6sHW9q/secondcard.jpg",
+
+      "img2": "https://i.postimg.cc/D0q5pkvP/secondimg2.jpg"
+
+    },
+
+    {
+
+      "id": "3",
+
+      "name": "Dislocation",
+
+      "CardImg": "https://i.postimg.cc/0jB543Vr/third-Card.jpg",
+
+      "overview": "A dislocated shoulder is an injury in which the upper arm bone pops out of the cup-shaped socket that's part of the shoulder blade. The shoulder is the body's most flexible joint, which makes it more likely to dislocate.If you suspect a dislocated shoulder, seek prompt medical attention. Most people regain full use of their shoulder within a few weeks. However, once a shoulder dislocates, the joint might be prone to repeat dislocations.",
+
+      "chcekListSymptoms1": "Intense pain, Swelling or bruising and A visibly deformed or out-of-place shoulder",
+
+      "recoveryPeriod": "It usually takes up to 12 weeks to recover from a dislocated shoulder. It may take up to 16 weeks to fully return to playing some sports, but for some recovery can take longer. You'll need to wear a sling to support your arm for the first few weeks.",
+
+      "Symptoms": "Dislocated shoulder symptoms can include:A visibly deformed or out-of-place shoulder, Swelling or bruising, Intense pain, Inability to move the joint Shoulder dislocation can also cause numbness, weakness or tingling near the injury, such as in the neck or down the arm. The muscles in the shoulder might spasm, which can increase the pain.",
+
+      "img1": "https://i.postimg.cc/yNy1KWLM/third-Img1.jpg",
+
+      "img2": "https://i.postimg.cc/x1rnbLhr/third-Img2.jpg"
+
+    },
+
+    {
+
+      "id": "4",
+
+      "name": "Sprains and Strains",
+
+      "CardImg": "https://i.postimg.cc/8zKdHBQ5/fourth-Card.jpg",
+
+      "overview": "Shoulder sprains and strains are both injuries that can happen due to overuse of or trauma to the shoulder. While the symptoms of the two are similar, they involve different types of tissue within your body. Damage to these tissues can make it hard to move and use your shoulder.",
+
+      "chcekListSymptoms1": "Pain at the front of the joint, Swelling that develops rapidly and Inability to move the shoulder",
+
+      "recoveryPeriod": "For a mild to moderate shoulder sprain or strain, you may be able to return to your normal activities within one to two weeks. Moderate sprains or strains may take as long as six to eight weeks before you can resume day-to-day shoulder activities.",
+
+      "Symptoms": "Shoulder sprain or strain symptoms depend on the severity of the injury and can range from mild to severe. Symptoms can include:Pain at the front of the joint, Tenderness when pressing on the area of the injury, Swelling that develops rapidly, Inability to move the shoulder, Instability in the shoulder joint (severe shoulder sprains or strains).",
+
+      "img1": "https://i.postimg.cc/C5skfbsw/fourth-Img1.jpg",
+
+      "img2": "https://i.postimg.cc/sgNSSj7G/fourth-Img2.jpg"
+
+    },
+
+    {
+
+      "id": "5",
+
+      "name": "",
+
+      "CardImg": "https://i.postimg.cc/Y93Qv13M/fifth-Card.jpg",
+
+      "overview": "The acromioclavicular, or AC, joint is a joint in the shoulder where two bones meet. One of these bones is the collarbone, or clavicle. The second bone is actually part of the shoulder blade (scapula), which is the big bone behind the shoulder that also forms part of the shoulder joint. The portion of the shoulder blade that meets the clavicle is called the acromion. As a result, where the clavicle meets the acromion is called the AC joint. Like most joints in the body where bones meet, there is cartilage between the two bones, which is the white tissue between bones that allows them to move on each other, like Teflon on two ball bearings.",
+
+      "chcekListSymptoms1": "pain radiating to the neck or shoulder, Bruising and Swelling",
+
+      "recoveryPeriod": "Most people won't have AC injuries severe enough to require surgical repair. But for those that do, expect your total recovery timeline to be anywhere from four to six months. During this time, you need to be diligent about engaging in physical therapy to regain strength and proper range of motion in your shoulder.",
+
+      "Symptoms": "One of the first signs that a person may have arthrosis of the AC joint is pain and tenderness at the top of the shoulder around the joint. Sleeping on the side may cause pain. There may be a decrease in shoulder motion.  Compression of the joint, such as bringing the arm across the chest may result in increased pain. There may be some swelling at the site of the joint. If the AC joint had been injured some time in the past, there may be a snap or click as the shoulder is moved, and the area of the AC joint may become more prominent.",
+
+      "img1": "https://i.postimg.cc/ZYwrZxnL/fifth-Img1.jpg",
+
+      "img2": "https://i.postimg.cc/hG8dY9NT/fifth-Img2.jpg"
+
+    }
+
+  ],
+
+  "stomach": [
+
+    {
+
+      "id": "1",
+
+      "name": "appendicitis",
+
+      "CardImg": "https://i.postimg.cc/VLKZfm2Y/onecard.jpg",
+
+      "overview": "Appendicitis is an inflammation of the appendix. The appendix is a finger-shaped pouch that sticks out from the colon on the lower right side of the belly, also called the abdomen.Appendicitis causes pain in the lower right abdomen. However, in most people, pain begins around the belly button and then moves. As inflammation worsens, appendicitis pain typically increases and eventually becomes serious.Although anyone can develop appendicitis, most often it occurs in people between the ages of 10 and 30. Treatment of appendicitis is usually antibiotics and surgery to remove the appendix.",
+
+      "chcekListSymptoms1": "Loss of appetite, Constipation or diarrhea and",
+
+      "recoveryPeriod": "Your recovery time depends on the type of surgery you had. If you had laparoscopic surgery, you will probably be able to return to work or a normal routine 1 to 3 weeks after surgery. If you had an open surgery, it may take 2 to 4 weeks. If your appendix ruptured, you may have a drain in your incision.",
+
+      "Symptoms": "Sudden pain that begins on the right side of the lower abdomen. Sudden pain that begins around the navel and often shifts to the lower right abdomen, Pain that worsens with coughing,walking or making other jarring movements, Nausea and vomiting, Loss of appetite, Low-grade fever that may rise as the illness worsens, Constipation or diarrhea, Abdominal bloating, Gas.",
+
+      "img1": "https://i.postimg.cc/kgZjSwnz/oneimg1.jpg",
+
+      "img2": "https://i.postimg.cc/d1RnzY8c/oneimg2.jpg"
+
+    },
+
+    {
+
+      "id": "2",
+
+      "name": "Diabetes mellitus",
+
+      "CardImg": "https://i.postimg.cc/zfh1Hy1w/secondcard.jpg",
+
+      "overview": "Diabetes mellitus refers to a group of diseases that affect how the body uses blood sugar (glucose). Glucose is an important source of energy for the cells that make up the muscles and tissues. It's also the brain's main source of fuel. The main cause of diabetes varies by type. But no matter what type of diabetes you have, it can lead to excess sugar in the blood. Too much sugar in the blood can lead to serious health problems.Chronic diabetes conditions include type 1 diabetes and type 2 diabetes. Potentially reversible diabetes conditions include prediabetes and gestational diabetes. Prediabetes happens when blood sugar levels are higher than normal. But the blood sugar levels aren't high enough to be called diabetes. And prediabetes can lead to diabetes unless steps are taken to prevent it. Gestational diabetes happens during pregnancy. But it may go away after the baby is born.",
+
+      "chcekListSymptoms1": "Feeling more thirsty than usual, Feeling tired and weak and Having blurry vision",
+
+      "recoveryPeriod": "t will usually take around 15 minutes to recover from a mild episode of hypoglycaemia. If you have a blood glucose meter, measure your blood sugar again after 15 to 20 minutes. If it’s still too low (below 4mmol), you should have some more sugary food or a drink before testing your levels again in another 15 to 20 minutes. When treating someone else with hypoglycaemia, if the above treatment isn’t effective, you may be able to help them by applying glucose gel (or honey, treacle or jam if glucose gel isn’t available) to the inside of their cheeks, and gently massaging the outside of their cheeks.It may take 10 to 15 minutes before they feel better. This shouldn’t be done if the person is drowsy or unconscious because of the risk of choking",
+
+      "Symptoms": "Diabetes symptoms depend on how high your blood sugar is. Some people, especially if they have prediabetes, gestational diabetes or type 2 diabetes, may not have symptoms. In type 1 diabetes, symptoms tend to come on quickly and be more severe.Some of the symptoms of type 1 diabetes and type 2 diabetes are: Feeling more thirsty than usual, Urinating often, Losing weight without trying, Presence of ketones in the urine. Ketones are a byproduct of the breakdown of muscle and fat that happens when there's not enough available insulin, Feeling tired and weak, Feeling irritable or having other mood changes, Having blurry vision, Having slow-healing sores and Getting a lot of infections, such as gum, skin and vaginal infections.",
+
+      "img1": "https://i.postimg.cc/Tw2dxxKv/secondimg1.jpg",
+
+      "img2": "https://i.postimg.cc/W14xs4nn/secondimg2.jpg"
+
+    },
+
+    {
+
+      "id": "3",
+
+      "name": "Hypoglycemia",
+
+      "CardImg": "https://i.postimg.cc/yYTwqbM0/thirdcard.jpg",
+
+      "overview": "Hypoglycemia is a condition in which your blood sugar (glucose) level is lower than the standard range. Glucose is your body's main energy source. Hypoglycemia is often related to diabetes treatment. But other drugs and a variety of conditions — many rare — can cause low blood sugar in people who don't have diabetes.Hypoglycemia needs immediate treatment. For many people, a fasting blood sugar of 70 milligrams per deciliter (mg/dL), or 3.9 millimoles per liter (mmol/L), or below should serve as an alert for hypoglycemia. But your numbers might be different. Ask your health care provider.Treatment involves quickly getting your blood sugar back to within the standard range either with a high-sugar food or drink or with medication. Long-term treatment requires identifying and treating the cause of hypoglycemia.",
+
+      "chcekListSymptoms1": "Looking pale, Shakiness and Headache",
+
+      "recoveryPeriod": "If a person faints (passes out) due to severely low blood sugar, they'll usually wake up within 15 minutes after a glucagon injection. If they don't wake up within 15 minutes after the injection, they should recieve one more dose",
+
+      "Symptoms": "If blood sugar levels become too low, hypoglycemia signs and symptoms can include:Looking pale, Shakiness, Sweating, Headache, Hunger or nausea, An irregular or fast heartbeat, Fatigue, Irritability or anxiety, Difficulty concentrating, Dizziness or lightheadedness, Tingling or numbness of the lips, tongue or cheek as hypoglycemia worsens, signs and symptoms can include:Confusion, unusual behavior or both, such as the inability to complete routine tasks, Loss of coordination, Slurred speech, Blurry vision or tunnel vision, Nightmares, if asleep Severe hypoglycemia may cause Unresponsiveness (loss of consciousness)Seizures.",
+
+      "img1": "https://i.postimg.cc/nL9RLRPR/thirdimg1.jpg",
+
+      "img2": "https://i.postimg.cc/TwrtVyGn/thirdimg2.jpg"
+
+    },
+
+    {
+
+      "id": "4",
+
+      "name": "Liver disease",
+
+      "CardImg": "https://i.postimg.cc/fLj6wq34/fourthcard.jpg",
+
+      "overview": "The liver is an organ about the size of a football. It sits just under your rib cage on the right side of your abdomen. The liver is essential for digesting food and ridding your body of toxic substances.Liver disease can be inherited (genetic). Liver problems can also be caused by a variety of factors that damage the liver, such as viruses, alcohol use and obesity.Over time, conditions that damage the liver can lead to scarring (cirrhosis), which can lead to liver failure, a life-threatening condition. But early treatment may give the liver time to heal.",
+
+      "chcekListSymptoms1": "Itchy skin, Chronic fatigue and Nausea or vomiting",
+
+      "recoveryPeriod": "Many people recover from liver failure with treatment. If a transplant is necessary, most patients go back to their daily activities within six months. People who have received a transplant need lifelong medical care, including medications to prevent their body from rejecting the new organ.",
+
+      "Symptoms": "Skin and eyes that appear yellowish (jaundice)Abdominal pain and Swelling in the legs and ankles, Itchy skin, Dark urine color, Pale stool color, Chronic fatigue, Nausea or vomiting, Loss of appetite, And Tendency to bruise easily",
+
+      "img1": "https://i.postimg.cc/ZnssRG4Q/fourthimg1.jpg",
+
+      "img2": "https://i.postimg.cc/9MFB7L8H/fourthimg2.jpg"
+
+    },
+
+    {
+
+      "id": "5",
+
+      "name": "Gastric ulcer /Peptic ulcer",
+
+      "CardImg": "https://i.postimg.cc/s2k17xDP/fifthcard.jpg",
+
+      "overview": "Peptic ulcers are open sores that develop on the inside lining of your stomach and the upper portion of your small intestine. The most common symptom of a peptic ulcer is stomach pain Peptic ulcers include: Gastric ulcers that occur on the inside of the stomach, Duodenal ulcers that occur on the inside of the upper portion of your small intestine (duodenum). The most common causes of peptic ulcers are infection with the bacterium Helicobacter pylori (H. pylori) and long-term use of nonsteroidal anti-inflammatory drugs (NSAIDs) such as ibuprofen (Advil, Motrin IB, others) and naproxen sodium (Aleve). Stress and spicy foods do not cause peptic ulcers. However, they can make your symptoms worse.",
+
+      "chcekListSymptoms1": "Heartburn, Burning stomach pain and Nausea",
+
+      "recoveryPeriod": "Most stomach ulcers heal usually within 4–8 weeks, but larger ulcers may take up to 12 weeks. The cause and size of the ulcer will also influence recovery time.",
+
+      "Symptoms": "Burning stomach pain Feeling of fullness, bloating or belching Intolerance to fatty foods, Heartburn, Nausea. The most common peptic ulcer symptom is burning stomach pain. Stomach acid makes the pain worse, as does having an empty stomach. The pain can often be relieved by eating certain foods that buffer stomach acid or by taking an acid-reducing medication, but then it may come back. The pain may be worse between meals and at night. Many people with peptic ulcers don't even have symptoms. Less often, ulcers may cause severe signs or symptoms such as: Vomiting or vomiting blood — which may appear red or black, Dark blood in stools, or stools that are black or tarry, Trouble breathing, Feeling faint, Nausea or vomiting, Unexplained weight loss Appetite changes.",
+
+      "img1": "https://i.postimg.cc/XYTnDhS4/fifthimg1.jpg",
+
+      "img2": "https://i.postimg.cc/63BJkxHJ/fifthimg2.jpg"
+
+    }
+
+  ],
+
+    "arm": [
+
+    {
+
+      "id": "1",
+
+      "name": "Instability",
+
+      "CardImg": "https://i.postimg.cc/65yKyMQ5/oneCard.jpg",
+
+      "overview": "Shoulder instability usually occurs when the lining of the shoulder joint (the capsule), ligaments or labrum become stretched, torn or detached, allowing the ball of the shoulder joint (humeral head) to move either completely or partially out of the socket.Individuals with shoulder instability usually feel pain when the shoulder gives way.",
+
+      "chcekListSymptoms1": "Repeat instances of dislocated shoulder, A loose or hanging feeling in the shoulder joint and The sensation of your arm bone slipping out of joint",
+
+      "recoveryPeriod": "Full recovery after shoulder surgery often takes 4-6 months, and in some cases longer. Maximum improvement may not be obtained until up to 9-12 months. Your surgeon and therapist will guide you in terms of returning to vocational and recreational activities.",
+
+      "Symptoms": "Chronic shoulder instability is a condition where the head or top of your arm bone repeatedly slips out of the socket. Shoulder instability can both cause and result from a dislocated shoulder. Sports or other activities involving repeated overhead motions can also lead to shoulder instability.Once the connective tissues in your shoulder are damaged, it makes it easier for the ball of the shoulder joint to slip out of the socket. The inability of shoulder muscles to keep the arm bone in place is what causes chronic shoulder instability and its resulting shoulder pain. And The most common signs of shoulder instability are: Repeat instances of dislocated shoulder, Shoulder pain due to injury, A loose or hanging feeling in the shoulder joint and The sensation of your arm bone slipping out of joint.",
+
+      "img1": "https://i.postimg.cc/hGnNbsKm/oneimg1.jpg",
+
+      "img2": "https://i.postimg.cc/Jz8WPMqt/oneimg2.jpg"
+
+    },
+
+    {
+
+      "id": "2",
+
+      "name": "Bursitis",
+
+      "CardImg": "https://i.postimg.cc/mrDLf2Gg/secondcard.jpg",
+
+      "overview": "Bursitis is a swelling or inflammation of a bursa, which is a synovium-lined, sac-like structure found throughout the body near bony prominences and between bones, muscles, tendons, and ligaments. There are many causes of bursitis, including overuse injury, infectious disease, trauma, and inflammatory disorders.",
+
+      "chcekListSymptoms1": "Pain when raising arms above head, Discomfort worsens at night and Decreased range of motion",
+
+      "recoveryPeriod": "Sometimes the fluid in the bursa can get infected. If this happens, you may need antibiotics. Bursitis is likely to improve in a few days or weeks if you rest and treat the affected area.",
+
+      "Symptoms": "Bursitis causes pain and tenderness around the affected bone or tendon. The bursae sacs may swell, often making movement difficult. Other signs and symptoms of bursitis include: Pain when raising arms above head, Discomfort worsens at night, and  Decreased range of motion.",
+
+      "img1": "https://i.postimg.cc/Ghwm8CvX/secindimg1.jpg",
+
+      "img2": "https://i.postimg.cc/9Mwc0803/secondimg2.jpg"
+
+    },
+
+    {
+
+      "id": "3",
+
+      "name": "Nerve problems",
+
+      "CardImg": "https://i.postimg.cc/SQC08TRd/third-Card.jpg",
+
+      "overview": "Sometimes, nerves can be damaged by illness, injury, or a genetic problem. In serious cases, this can result in lasting pain and discomfort, disability, and a reduced quality of life.Nerve conditions range from common problems such as carpal tunnel syndrome to more complex problems resulting from a traumatic injury or malignancy. Penn Nerve Center specialists have a deep understanding of the many nuances of nerve conditions and use their knowledge and experience to provide you with an accurate diagnosis and personalized treatment plan.",
+
+      "chcekListSymptoms1": "Memory loss, Mental impairment and Problems with coordination",
+
+      "recoveryPeriod": "If your nerve is bruised or traumatized but is not cut, it should recover over 6-12 weeks. A nerve that is cut will grow at 1mm per day, after about a 4 week period of 'rest' following your injury. Some people notice continued improvement over many months.",
+
+      "Symptoms": "Symptoms of a nerve condition vary from person to person depending upon the cause. Sometimes they appear suddenly. In other cases, they come on gradually or come and go. The most common symptoms of a nerve condition include:A feeling of numbness, pain, tingling, or burning in your limbs or extremities, Unexplained weakness, loss of muscle strength, or paralysis, A headache that is persistent, comes on suddenly, or is different, Problems with coordination, Shooting pain down one leg, Back pain that extends to the toes or other parts of the body Problems with vision (i.e. loss of sight or seeing double), Slurred speech or other new language impairments (speaking or comprehending), Memory loss, Seizures, tremors, or uncontrolled twitching and Mental impairment",
+
+      "img1": "https://i.postimg.cc/zf6MHK14/thirdimg1.jpg",
+
+      "img2": "https://i.postimg.cc/dt6xmzY2/thirdimg2.jpg"
+
+    },
+
+    {
+
+      "id": "4",
+
+      "name": "Fractures (broken bones)",
+
+      "CardImg": "https://i.postimg.cc/Y9y1CzKm/fourthcard.jpg",
+
+      "overview": "Fractures usually result from injuries or overuse. The injured part hurts (especially when it is used), is usually swollen, and may be bruised or look distorted, bent, or out of place.Other injuries, such as blood vessel and nerve damage, compartment syndrome, infections, and long-lasting joint problems, may also be present or develop. Doctors can sometimes diagnose fractures based on symptoms, the circumstances causing the injury, and results of a physical examination, but x-rays are usually needed. Most fractures heal well and result in few problems, but how long they take to heal varies, depending on many factors, such as the person's age, the type and severity of the injury, and other disorders present. Treatment depends on the type and severity of the fracture and may include pain relievers, PRICE (protection, rest, ice, compression, and elevation), maneuvers or procedures to move the fractured bone fragments back into their normal position (reduction), immobilization of the injured part (for example, with a cast or splint), and sometimes surgery. Bones are part of the musculoskeletal system, which also includes muscles and the tissues that connect them (ligaments, tendons, and other connective tissue, called soft tissues). These structures give the body its form, make it stable, and enable it to move.",
+
+      "chcekListSymptoms1": "A part that looks distorted, bent, or out of place, Bruising or discoloration and Possibly loss of feeling (numbness or abnormal sensations)",
+
+      "recoveryPeriod": "Most fractures heal in 6-8 weeks, but this varies tremendously from bone to bone and in each person based on many of the factors discussed above. Hand and wrist fractures often heal in 4-6 weeks whereas a tibia fracture may take 20 weeks or more.",
+
+      "Symptoms": "The most obvious symptom of a fracture is Pain, The injured part hurts, especially when people try to put weight on it or use it. The area around the fracture is tender to the touch. Other symptoms include Swelling, A part that looks distorted, bent, or out of place, Bruising or discoloration, Inability to use the injured part normally, Possibly loss of feeling (numbness or abnormal sensations), Fractures typically cause swelling, but swelling may take hours to develop and, in some types of fractures, is very slight. When muscles around the injured area try to hold a broken bone in place, muscle spasms may occur, causing additional pain. Bruises appear when bleeding occurs under the skin. The blood may come from blood vessels in a broken bone or in the surrounding tissues. At first, the bruise is purplish black, then slowly turns green and yellow as the blood is broken down and reabsorbed back into the body. The blood can move quite a distance from the fracture, causing a large bruise or a bruise some distance from the injury. It can take a few weeks for blood to be reabsorbed. The blood can cause temporary pain and stiffness in the surrounding structures. For example, shoulder fractures can bruise the entire arm and cause pain in the elbow and wrist. Pain, as well as the fracture itself, often prevents a person from moving the fractured part normally. Because moving the injured part is so painful, some people are unwilling or unable to move it. If people (such as young children or older people) cannot speak, refusal to move a body part may be the only sign of a fracture. However, some fractures do not keep people from moving the injured part. Being able to move an injured part does not mean that there is no fracture.",
+
+      "img1": "https://i.postimg.cc/g0zRyTGZ/fourthimg1.jpg",
+
+      "img2": "https://i.postimg.cc/wv3mZRyx/fourthimg2.jpg"
+
+    },
+
+    {
+
+      "id": "5",
+
+      "name": "Osteoarthritis",
+
+      "CardImg": "https://i.postimg.cc/T3pJ5PJD/fifth-Card.jpg",
+
+      "overview": "Osteoarthritis, sometimes called OA, is a type of arthritis that only affects the joints, usually in the hands, knees, hips, neck, and lower back. It's the most common type of arthritis.In a healthy joint, the ends of the bones are covered with a smooth, slippery tissue called cartilage. The cartilage pads the bones and helps them glide easily when you move the joint. With osteoarthritis, the cartilage breaks down and becomes rough. Sometimes, all the cartilage wears away and the bones rub together. Bumps of extra bone called bone spurs may grow in the joint area.There is no cure for osteoarthritis. It usually gets worse slowly. But there's a lot you can do to manage the symptoms.",
+
+      "chcekListSymptoms1": "A joint that feels loose or unstable, Swollen joints, especially after using the joint a lot and Pain when you move, which often gets better with rest",
+
+      "recoveryPeriod": "In extreme cases, some cases of osteoarthritis may remain stable for decades, while others progress very rapidly to complete destruction of the cartilage in the space of a few months. It is difficult if not impossible today to predict how fast the evolution of your osteoarthritis will be.            ",
+
+      "Symptoms": "Osteoarthritis affects people in different ways, and not everyone has pain. The most common symptoms are Pain when you move, which often gets better with rest, Stiffness, especially for the first 30 minutes after you get up from resting, Swollen joints, especially after using the joint a lot, Less movement in the joint than normal, A joint that feels loose or unstable.",
+
+      "img1": "https://i.postimg.cc/qM78W7Y5/fifthimg1.jpg",
+
+      "img2": "https://i.postimg.cc/qqv3fmm3/fifthimg2.jpg"
+
+    }
+
+    ],
+
+    "BodyOrgans": [
+        {
+          "id": "1",
+          "name": "Head",
+          "image": "https://i.postimg.cc/RV3j4vJg/HEAD.jpg",
+          "Overview": "Head, in human anatomy, the upper portion of the body, consisting of the skull with its coverings and contents, including the lower jaw. It is attached to the spinal column by way of the first cervical vertebra, the atlas, and connected with the trunk of the body by the muscles, blood vessels, and nerves that constitute the neck. The term also is used to describe the anterior or fore part of animals other than humans."
+        },
+        {
+          "id": "2",
+          "name": "Chest",
+          "image": "https://i.postimg.cc/Tw0XLQTQ/cheast.jpg",
+          "Overview": "Thoracic cavity, also called chest cavity, the second largest hollow space of the body. It is enclosed by the ribs, the vertebral column, and the sternum, or breastbone, and is separated from the abdominal cavity (the body’s largest hollow space) by a muscular and membranous partition, the diaphragm. It contains the lungs, the middle and lower airways—the tracheobronchial tree—the heart, the vessels transporting blood between the heart and the lungs, the great arteries bringing blood from the heart out into general circulation, and the major veins into which the blood is collected for transport back to the heart. The heart is covered by a fibrous membrane sac called the pericardium that blends with the trunks of the vessels running to and from the heart. The thoracic cavity also contains the esophagus, the channel through which food is passed from the throat to the stomach."
+        },
+        {
+          "id": "3",
+          "name": "Arm",
+          "image": "https://i.postimg.cc/cJqWVrD7/armFf.jpg",
+          "Overview": "The upper extremity or arm is a functional unit of the upper body. It consists of three sections, the upper arm, forearm, and hand. It extends from the shoulder joint to the fingers and contains 30 bones. It also consists of many nerves, blood vessels (arteries and veins), and muscles. The nerves of the arm are supplied by one of the two major nerve plexus of the human body, the brachial plexus."
+        },
+        {
+          "id": "4",
+          "name": "Shoulder",
+          "image": "https://i.postimg.cc/pX6RJ0z6/arm.jpg",
+          "Overview": "The shoulder joint is formed by an articulation between the head of the humerus and the glenoid cavity (or fossa) of the scapula. This gives rise to the alternate name for the shoulder joint – the glenohumeral joint. Like most synovial joints, the articulating surfaces are covered with hyaline cartilage.The head of the humerus is much larger than the glenoid fossa, giving the joint a wide range of movement at the cost of instability. To reduce the disproportion in surfaces, the glenoid fossa is deepened by a fibrocartilage rim –  called the glenoid labrum."
+        },
+        {
+          "id": "5",
+          "name": "Hands",
+          "image": "https://i.postimg.cc/7YfyhgdM/hands.jpg",
+          "Overview": "A total of 27 bones constitute the basic skeleton of the wrist and hand. The hand is innervated by 3 nerves — the median, ulnar, and radial nerves — each of which has sensory and motor components. The muscles of the hand are divided into intrinsic and extrinsic groups."
+        },
+        {
+          "id": "6",
+          "name": "Legs",
+          "image": "https://i.postimg.cc/jjh1Z5BS/legs.jpg",
+          "Overview": "Leg, limb or appendage of an animal, used to support the body, provide locomotion, and, in modified form, assist in capturing and eating prey (as in certain shellfish, spiders, and insects). In four-limbed vertebrates all four appendages are commonly called legs, but in bipedal animals, including humans, only the posterior or lower two are so called. The bones of the human leg, like those of other mammals, consist of a basal segment, the femur (thighbone); an intermediate segment, the tibia (shinbone) and the smaller fibula; and a distal segment, the pes (foot), consisting of tarsals, metatarsals, and phalanges (toes)."
+        },
+        {
+          "id": "7",
+          "name": "Stomach",
+          "image": "https://i.postimg.cc/C1PQp2hy/stomac.jpg",
+          "Overview": "The stomach, is an intraperitoneal digestive organ located between the oesophagus and the duodenum. It has a ‘J’ shape, and features a lesser and greater curvature. The anterior and posterior surfaces are smoothly rounded with a peritoneal covering. In this article, we shall look at the anatomy of the stomach – its position, structure and neurovascular supply."
+        }
+      ]
+}

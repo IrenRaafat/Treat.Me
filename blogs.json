@@ -1,0 +1,263 @@
+{
+    "Blogs":
+    [
+        {
+            "id":1,
+            "name":"Asthma",
+            "imgCard":"https://i.postimg.cc/wBY826pS/asthma-Card-Img.jpg",
+            "overviewCard":"Types, Causes and Treatment",
+            "img1":"https://i.postimg.cc/50DmBrB2/Asthma-Img1.jpg",
+            "header1":"What is an asthma attack?",
+            "subHeader1":"Asthma, also called bronchial asthma, is a disease that affects your lungs.",
+            "answer11":"It’s a chronic (ongoing) condition, meaning it doesn’t go away and needs ongoing medical management. Asthma affects more than 25 million people in the U.S. currently. This total includes morethan 5 million children. Asthma can be life-threatening if you don’t get treatment.",
+            "answer12":"When you breathe normally, muscles around your airways are relaxed, letting air move easily and quietly. During an asthma attack, three things can happen: 1-Bronchospasm: The muscles around the airways constrict (tighten). When they tighten, it makes your airways narrow. Air cannot flow freely through constricted airways. 2-Inflammation: The lining of your airways becomes swollen. Swollen airways don’t let as much air in or out of your lungs. 3-Mucus production: During the attack, your body creates more mucus. This thick mucus clogs airways. When your airways get tighter, you make a sound called wheezing when you breathe, a noise your airways make when you breathe out. You might also hear an asthma attack called an exacerbation or a flare-up. It’s the term for when your asthma isn’t controlled.",
+            "img2":"https://i.postimg.cc/T175j5Mq/ASthma-Img2.jpg",
+            "header2":"What types of asthma are there?",
+            "subHeader2":"Asthma is broken down into types based on the cause and the severity of symptoms. Healthcare providers identify asthma as:",
+            "answer21":"Intermittent: This type of asthma comes and goes so you can feel normal in between asthma flares. Persistent: Persistent asthma means you have symptoms much of the time. Symptoms can be mild, moderate or severe. Healthcare providers base asthma severity on how often you have symptoms. They also consider how well you can do things during an attack. Asthma has multiple causes: Allergic: Some people’s allergies can cause an asthma attack. Allergens include things like molds, pollens and pet dander.Non-allergic: Outside factors can cause asthma to flare up. Exercise, stress, illness and weather may cause a flare.",
+            "answer22":"Asthma can also be: Adult-onset: This type of asthma starts after the age of 18. Pediatric: Also called childhood asthma, this type of asthma often begins before the age of 5, and can occur in infants and toddlers. Children may outgrow asthma. You should make sure that you discuss it with your provider before you decide whether your child needs to have an inhaler available in case they have an asthma attack. Your child’s healthcare provider can help you understand the risks. In addition, there are these types of asthma: Exercise-induced asthma: This type is triggered by exercise and is also called exercise-induced bronchospasm. Occupational asthma: This type of asthma happens primarily to people who work around irritating substances.",
+            "header3":"What asthma treatment options are there?",
+            "subHeader3":"You have options to help manage your asthma. Your healthcare provider may prescribe medications to control symptoms. These include:",
+            "answer31":"Bronchodilators: These medicines relax the muscles around your airways. The relaxed muscles let the airways move air. They also let mucus move more easily through the airways. These medicines relieve your symptoms when they happen and are used for intermittent and chronic asthma. Anti-inflammatory medicines: These medicines reduce swelling and mucus production in your airways. They make it easier for air to enter and exit your lungs. Your healthcare provider may prescribe them to take every day to control or prevent your symptoms of chronic asthma. Biologic therapies for asthma: These are used for severe asthma when symptoms persist despite proper inhaler therapy.",
+            "answer32":"You can take asthma medicines in several different ways. You may breathe in the medicines using a metered-dose inhaler, nebulizer or another type of asthma inhaler. Your healthcare provider may prescribe oral medications that you swallow."
+
+
+        },
+        {
+            "id":2,
+            "name":"Social Distancing",
+            "imgCard":"https://i.postimg.cc/k5sSMp1p/Social-Distancing-Card.jpg",
+            "overviewCard":"How Near is Too Near?",
+            "img1":"https://i.postimg.cc/05bWzTgm/Social-Distaning-Img2.jpg",
+            "header1":"What is social distancing?",
+            "subHeader1":"Social distancing is a public health practice that aims to prevent sick people from coming in close contact with healthy people in order to reduce opportunities for disease transmission.",
+            "answer11":"It can include large-scale measures like canceling group events or closing public spaces, as well as individual decisions such as avoiding crowds. With COVID-19, the goal of social distancing right now is to slow down the outbreak in order to reduce the chance of infection among high-risk populations",
+            "answer12":"and to reduce the burden on health care systems and workers. Experts describe this as flattening the curve,which generally refers to the potential success of social distancing measures to prevent surges in illness that could overwhelm health care systems.",
+            "img2":"https://i.postimg.cc/y8tYH4zP/Socialdistancing-Img3.jpg",
+            "header2":"How do I practice social distancing?",
+            "subHeader2":"The CDC defines social distancing as it applies to COVID-19 as remaining out of congregrate settings, avoiding mass gatherings, and maintaining distance (approximately 6 feet or 2 meters) from others when possible.",
+            "answer21":"This means, says Rivers, no hugs, no handshakes. It's particularly important—and perhaps obvious—to maintain that same 6-foot distance from anyone who is demonstrating signs of illness, including coughing, sneezing, or fever. Along with physical distance, proper hand-washing is important for protecting not only yourself but others around you—because the virus can be spread even without symptoms.",
+            "answer22":"Don't wait for evidence that there's circulation [of COVID-19] in your community,says Rivers. Go ahead and step up that hand-washing right now because it really does help to reduce transmission She recommends washing hands any time you enter from outdoors to indoors, before you eat, and before you spend time with people who are more vulnerable to the effects of COVID-19, including older adults and those with serious chronic medical conditions. On the broader scale, a number of actions taken in recent days are designed to encourage social distancing, including: Schools, colleges, and universities suspending in-person classes and converting to remote online instruction Cities canceling events, including sporting events, festivals, and parades Workplaces encouraging or mandating flexible work options, including telecommuting Organizations and businesses canceling large gatherings, including conferences Houses of worship suspending services",
+            "header3":"Does social distancing work?",
+            "subHeader3":"Experts point to lessons from history that indicate these measures work",
+            "answer31":"including those from the 1918 Spanish influenza pandemic. A 2007 PNAS study found that cities that deployed multiple interventions at an early phase of the pandemic—such as closing schools and banning public gatherings—had significantly lower death rates. Although Inglesby says the concept has little modern precedent at a large scale, he points to an early study, not yet peer reviewed, showing the different experience of peak coronavirus rates for two Chinese cities",
+            "answer32":"The city of Guangzhou, which implemented disease control measures early into the outbreak, had significantly lower numbers of hospitalizations from COVID-19 on its peak day than the city of Wuhan, which put measures in place a month into the outbreak. Inglesby says people shouldn't fret about a perfect approach to social distancing: It's a big country and we will need partial solutions that fit into different communities. A 75% solution to a social distancing measure may be all that is possible … [which] is a lot better than 0%, or forcing a 100% solution that will fail."
+
+        },
+        {
+            "id":3,
+            "name":"Corona Virus",
+            "imgCard":"https://i.postimg.cc/D0XRLDN2/corona-Card.jpg",
+            "overviewCard":"From 2019 to 2023!",
+            "img1":"https://i.postimg.cc/qRC15Kxw/covid-Img1.jpg",
+            "header1":"What happened from 2019 to 2023!",
+            "subHeader1":"Coronavirus disease (COVID-19) is an infectious disease caused by the SARS-CoV-2 virus.",
+            "answer1":"Most people infected with the virus will experience mild to moderate respiratory illness and recover without requiring special treatment. However, some will become seriously ill and require medical attention. Older people and those with underlying medical conditions like cardiovascular disease, diabetes, chronic respiratory disease, or cancer are more likely to develop serious illness. Anyone can get sick with COVID-19 and become seriously ill or die at any age. ",
+            "answer12":"The best way to prevent and slow down transmission is to be well informed about the disease and how the virus spreads. Protect yourself and others from infection by staying at least 1 metre apart from others, wearing a properly fitted mask, and washing your hands or using an alcohol-based rub frequently. Get vaccinated when it’s your turn and follow local guidance. The virus can spread from an infected person’s mouth or nose in small liquid particles when they cough, sneeze, speak, sing or breathe. These particles range from larger respiratory droplets to smaller aerosols. It is important to practice respiratory etiquette, for example by coughing into a flexed elbow, and to stay home and self-isolate until you recover if you feel unwell.",
+            "img2":"https://i.postimg.cc/yYfrW7xF/covidimg2.jpg",
+            "header2":"Symptoms",
+            "subHeader2":"COVID-19 affects different people in different ways. Most infected people will develop mild to moderate illness and recover without hospitalization.",
+            "answer21":"Most common symptoms:fever, cough, tiredness, loss of taste or smell. Less common symptoms:sore throat, headache, aches and pains, diarrhoea, a rash on skin, or discolouration of fingers or toes, red or irritated eyes.",
+            "answer22":"Serious symptoms: difficulty breathing or shortness of breath,loss of speech or mobility, or confusion, chest pain. Seek immediate medical attention if you have serious symptoms.  Always call before visiting your doctor or health facility. People with mild symptoms who are otherwise healthy should manage their symptoms at home. On average it takes 5–6 days from when someone is infected with the virus for symptoms to show, however it can take up to 14 days. ",
+            "header3":"How to prevent (COVID-19)?",
+            "subHeader3":"To prevent infection and to slow transmission of COVID-19, do the following: ",
+            "answer31":"Get vaccinated when a vaccine is available to you. Stay at least 1 metre apart from others, even if they don’t appear to be sick. Wear a properly fitted mask when physical distancing is not possible or when in poorly ventilated settings.",
+            "answer32":"Choose open, well-ventilated spaces over closed ones. Open a window if indoors. Wash your hands regularly with soap and water or clean them with alcohol-based hand rub. Cover your mouth and nose when coughing or sneezing. If you feel unwell, stay home and self-isolate until you recover."
+        },
+        {
+            "id":4,
+            "name":"Infection Control",
+            "imgCard":"https://i.postimg.cc/k580VD22/infection-Controll-Card.jpg",
+            "overviewCard":"How to Create a Safe Space?",
+            "img1":"https://i.postimg.cc/J0BZmw6C/infection-Controll-Img1.jpg",
+            "header1":"Infection prevention and control!",
+            "subHeader1":"Infection control refers to the policy and procedures implemented to control and minimize the dissemination of infections in hospitals and other healthcare settings with the main purpose of reducing infection rates.",
+            "answer11":"Infection control as a formal entity was established in the early 1950s in the United States. By the late 1950s and 1960s, a small number of hospitals began to recognize healthcare-associated infections (HAIs) and implemented some of the infection control concepts. The primary purpose of infection control programs was to focus on the surveillance for HAIs and in-cooperate the basic understandings of epidemiology to elucidate risk factors for HAIs  However, most of the infection control programs were organized and managed by large academic centers rather than public health agencies which lead to sporadic efficiency and suboptimal outcomes. It was not until the late 19th and early 20th century when the new era in infection control was started through three pivotal events. These events included the Institute of Medicine’s 1999 report on errors in health care the 2002 Chicago Tribune representation on HAIs",
+            "answer12":"and the 2004/2006 publications of the significant reductions in bloodstream infection rate through the standardization of central venous catheter insertion process This new era in healthcare epidemiology is characterized by consumer demands for more transparency and accountability, increasing scrutiny and regulation, and expectations for rapid reductions in HAIs rates The role of infection control is to prevent and reduce the risk for hospital-acquired infections. This can be achieved by implementing infection control programs in the forms of surveillance, isolation, outbreak management, environmental hygiene, employee health, education, and infections prevention policies and management.",
+            "img2":"https://i.postimg.cc/Xvpwxyfv/infection-Controll-Img2.jpg",
+            "header2":"Hand hygiene",
+            "subHeader2":"Hand hygiene is considered one of the most important infection control measures for reducing the spread of infection. Hand hygiene is a general term that refers to any action of hand cleansing, such as handwashing or handrubbing.",
+            "answer21":"Microorganisms are either present on hands most of the time (resident flora) or acquired during healthcare activities (transient flora). The aim of hand hygiene is to reduce the number of microorganisms on your hands, particularly transient flora which may present the greater risk for infection transmission. Handwashing: Hands should be washed with soap and water when visibly soiled and after using the toilet. Handrubbing: Handrubbing with an alcohol-based hand rub (ABHR) is the preferred method for hand cleansing in the healthcare setting when hands are not visibly soiled. ABHRs are more effective against most bacteria and many viruses than either medicated or non-medicated soaps. ABHRs are also less drying on hands than washing hands with soap and water, and consequently cause less irritation to the skin. ABHRs should be applied to dry hands.",
+            "answer22":"The 5 Moments for hand hygiene, or times when hand hygiene should be attended to, was developed by the World Health Organisation (WHO). The 5 moments are:before touching a client, before performing a procedure, after a procedure or exposure to body fluids/substances, after touching a client, after touching the environment around a client.",
+            "header3":"Personal protective equipment (PPE)",
+            "subHeader3":"PPE protects the healthcare worker from exposure to blood and body fluids/substances. PPE that complies with relevant Australian Standards should be readily available and accessible in all health services.",
+            "answer31":"Gloves The use of gloves should not be considered an alternative to performing hand hygiene. Hand hygiene is required before putting on gloves and immediately after removal. Wear gloves (single-use non-sterile) when there is the potential for contact with blood, body fluids/substances, mucous membranes or non-intact skin. Sterile gloves are only required for certain invasive procedures, otherwise non-sterile gloves may be used if a aseptic non-touch technique is used.",
+            "answer32":"Gowns and aprons Wear an apron or gown to protect skin and prevent soiling of clothing during procedures and patient care activities that are likely to generate splashing or sprays of blood, body fluids, secretions or excretions, or cause soiling of clothing. Select a gown or apron (i.e., long or short sleeves) that is appropriate for the activity and the amount of fluid likely to be encountered. If an apron is used, staff should ensure they are “bare-below-the-elbows”. Remove the used gown as promptly as possible and roll it up carefully and discard appropriately. Perform hand hygiene immediately after removal. Masks, eye protection, face shields Wear a mask and eye protection, or a face shield to protect mucous membranes of the eyes, nose and mouth during procedures, patient-care activities and cleaning procedures that are likely to generate splashes or sprays of blood, body fluids, secretions and excretions. Remove the mask by holding the ties only and dispose of the mask into a waste bin.Perform hand hygiene immediately after removal."
+        },
+        {
+            "id":5,
+            "name":"Dehydration",
+            "imgCard":"https://i.postimg.cc/cJGVqYmF/dehydration-Card.jpg",
+            "overviewCard":"Dangers and Avoidance Techniques",
+            "img1":"https://i.postimg.cc/4dskctHY/dehydration-IMG1.jpg",
+            "header1":"About dehydration",
+            "subHeader1":"Dehydration occurs when your body loses more fluid than you take in.",
+            "answer11":"When the normal water content of your body is reduced, it upsets the balance of minerals (salts and sugar) in your body, which affects the way it functions. Water makes up over two-thirds of the healthy human body. It lubricates the joints and eyes, aids digestion, flushes out waste and toxins, and keeps the skin healthy.Some of the early warning signs of dehydration include:feeling thirsty and lightheaded a dry mouth, tiredness, having dark coloured, strong-smelling urine,passing urine less often than usual",
+            "answer12":"A baby may be dehydrated if they:have a sunken soft spot (fontanelle) on their head, have few or no tears when they cry, have fewer wet nappies, are drowsy, The body is affected even when you lose a small amount of fluid.",
+            "img2":"https://i.postimg.cc/JnZNfDp5/dehydration-IMG2.jpg",
+            "header2":"Causes of dehydration",
+            "subHeader2":"Dehydration is caused by not drinking enough fluid or by losing more fluid than you take in. Fluid is lost through sweat, tears, vomiting, urine or diarrhoea.",
+            "answer21":"The severity of dehydration can depend on a number of factors, such as climate, level of physical activity and diet. There are several causes of dehydration, which are described below. Dehydration is often the result of an illness, such as gastroenteritis, where fluid is lost through persistent bouts of diarrhoea and vomiting. Sweating You can also become dehydrated if you sweat excessively after a fever, exercise, or carrying out heavy, manual work in hot conditions. In these situations, it’s important to drink regularly to replace lost fluids. It doesn’t necessarily need to be hot for you to lose a significant amount of fluid from sweating. Children and teenagers are particularly at risk because they may ignore the symptoms of dehydration, or not know how to recognise and treat them.",
+            "answer22":"Alcohol Dehydration can also occur as a result of drinking too much alcohol. Alcohol is a diuretic, which means it makes you wee more. The headache associated with a hangover indicates that your body is dehydrated. You should try to drink plenty of water when you have been drinking alcohol. Diabetes If you have diabetes, you’re at risk of becoming dehydrated because you have high levels of glucose in your bloodstream. Your kidneys will try to get rid of the glucose by creating more urine, so your body becomes dehydrated from going to the toilet more frequently.",
+            "header3":"Preventing dehydration",
+            "subHeader3":"You should drink plenty of fluids to avoid becoming dehydrated.",
+            "answer31":"Most of the time, you can prevent dehydration by drinking water regularly throughout the day. Be guided by your thirst, but be aware that in hot weather, when exercising and during illness, you should drink more.",
+            "answer32":"Mild dehydration can be relieved by drinking more water and diluted fruit squash. If necessary, you can purchase oral rehydration solutions (ORS) from a pharmacy. As a guide, passing pale or clear-coloured urine (wee) is a good sign that you’re well hydrated."
+        },
+        {
+            "id":6,
+            "name":"Socializing",
+            "imgCard":"https://i.postimg.cc/7Ztj6dwQ/socilizing-Card.jpg",
+            "overviewCard":"Do We Need That Risk?",
+            "img1":"https://i.postimg.cc/jjnWkDcq/socializing2.jpg",
+            "header1":"What are the health benefits of being social?",
+            "subHeader1":"Humans are born into social groups and live their entire lives as a part of society",
+            "answer11":"so the social element can’t easily be removed from the evolution of an individual. But how does social contact affect our health? As human beings, we dream, learn, grow, and work as part of society. The society that we’re born into and the societies that we navigate throughout our lives shape our personal identities. And in fact, so keen are we to communicate with each other — even beyond geographical limitations — that we’ve developed a plethora of tools to help us achieve that, including pen and paper, telegraph, telephone, and the Internet.",
+            "answer12":"When I asked my colleagues in the Medical News Today office what benefits — if any — they thought that they derived from social connection, most of them said that they found some measure of comfort in social interaction Some colleagues said that they enjoyed the shared experiences, whereas others explained that friends kept them motivated to do “some healthful activities from time to time.” Others said that being around friends helped them to “destress and put things into perspective.” Even the most introverted among us crave social contact from time to time. But why is that, and does being social bring us any actual health benefits? In this Spotlight, we investigate why humans thrive in society, and how social interaction impacts our mental and physical well-being.",
+            "img2":"https://i.postimg.cc/G3x4NwFD/Brains-and-socializing.jpg",
+            "header2":"Social motivation and brain power",
+            "subHeader2":"Research has shown that by interacting with others, we actually train our brains.",
+            "answer21":"Social motivation and social contact can help to improve memory formation and recall and protects the brain from neurodegenerative diseases. Prof. Matthew Lieberman — from the University of California, Los Angeles — specializes in the mechanics of what he calls our “social brain,” which is the neural activity related to social interaction, and the brain benefits that are afforded by it. ",
+            "answer22":"He has seen, for instance, that “if you learn in order to teach someone else, then you learn better than if you learn in order to take a test.” This goes against the prominent beliefs in modern educational systems, in which learning on one’s own, for the sake of accumulating knowledge and skills, is typically preferred. Instead, however, Prof. Lieberman notes that “when you’re socially motivated to learn, the social brain can do the learning and it can do it better than the analytical network that you typically activate when you try to memorize.” A study published last year also found that maintaining close friendships later in life could help to prevent mental decline. The research — led by scientists at the Cognitive Neurology and Alzheimer’s Disease Center at Northwestern University Feinberg School of Medicine in Chicago, IL — found that “SuperAgers,” defined as people aged 80 and above but who have the mental agility of much younger people, appear to have one thing in common: close friends. “While both SuperAgers and [their peers with average cognitive performance] endorsed high levels of psychological well-being,” explain the authors, “SuperAgers endorsed greater levels of positive social relationships than their cognitively average-for-age peers.",
+            "header3":"Social context determines healthful habits",
+            "subHeader3":"Several recent studies have also linked social connection with physical health benefits, and better habits with a more healthful lifestyle.",
+            "answer31":"Researchers at Maastricht University Medical Centre in the Netherlands saw that socially active individuals have a decreased risk of type 2 diabetes In contrast, individuals who did not participate in social activities, such as going out with friends or joining a club, had a 60 percent higher risk of developing a condition called “prediabetes,” which generally predates diabetes. It might be that just being around people who encourage us to keep healthful habits or achieve challenging lifestyle goals could help us to remain mindful of our eating, exercise, and other lifestyle-related habits.",
+            "answer32":" A recent study has also found that people who exercised in a group rather than on their own had decreased stress levels and had better mental and physical well-being at the end of a 12-week fitness program. Their peers who went for solo fitness sessions, or who exercised with only one partner, did not experience the same improvements. “The communal benefits of coming together with friends and colleagues, and doing something difficult, while encouraging one another, pays dividends beyond exercising alone,” notes the study’s lead author."
+        },
+        {
+            "id":7,
+            "name":"Sunlight",
+            "imgCard":"https://i.postimg.cc/yNfDdFNT/sunlight-Card.jpg",
+            "overviewCard":"How to Keep our Vitamin-D in Check?",
+            "img1":"https://i.postimg.cc/hGXCy1NJ/sunlight-Img1.jpg",
+            "header1":"Sunlight provides vitamin D",
+            "subHeader1":"From providing vitamin D to reducing high blood pressure and boosting mood. ",
+            "answer11":"Being exposed to sunlight enables your body to make vitamin D from cholesterol in your skin cells. Known as the “sunshine vitamin,” vitamin D benefits your health in many ways, including: Supporting your bone and muscle health, Regulating your blood pressure, Regulating your immune system, Maintaining the health of your blood vessels, Keeping your brain working well, Regulating your blood sugar",
+            "answer12":"Sunlight strengthens bones As mentioned above, vitamin D supports bone health. The sunshine vitamin helps your body absorb calcium, which is essential for strong bones and helps prevent conditions like osteoporosis and osteopenia. Having good bone health can also help you avoid bone fractures (breaks). ",
+            "img2":"https://i.postimg.cc/wjmywt0q/sunlight-IMG2.jpg",
+            "header2":"Sunlight may reduce high blood pressure",
+            "subHeader2":"Hypertension, or high blood pressure, is linked to many health problems",
+            "answer21":"ncluding heart attack, stroke, and kidney damage. One study showed that exposure to sunlight lowered systolic blood pressure (the top number in a blood pressure reading) in people who had kidney failure and were taking dialysis.",
+            "answer22":"The study was based on the idea that UV light increases the availability of nitric oxide in the body. Nitric oxide is a molecule that can cause your blood vessels to widen and, as a result, lower your blood pressure.  But more research is needed to understand the sun’s effects on blood pressure and whether there are benefits for people who don’t have kidney disease.",
+            "header3":"How much sunlight should you get per day?",
+            "subHeader3":"Depending on your skin color, you may be able to get the daily recommended amount of sun exposure in as little as 10 minutes. ",
+            "answer31":"Experts in the U.K. recommend 10 to 15 minutes of daily sun exposure for people who have lighter skin and 25 to 40 minutes for those with darker skin. People with darker skin have more melanin, a molecule that serves as a natural sunscreen. But this can also make it a little harder to get enough sun exposure. So it takes more time in sunlight to reap its benefits if you have darker skin.",
+            "answer32":"Keep in mind, regardless of skin tone, spending more time in the sun than is recommended may increase your risk of sunburn or skin cancer. For this reason, you should put on sunscreen before going outside. This is especially true if you are going to be out longer than 10 to 30 minutes. You may be wondering whether putting on sunscreen can prevent you from getting enough sunlight to make vitamin D. Our bodies only need a little sunlight to create vitamin D and research shows that using sunscreen on a regular basis doesn’t hurt the body’s ability to create the sunshine vitamin. "
+        },
+        {
+            "id":8,
+            "name":"Cleanliness",
+            "imgCard":"https://i.postimg.cc/R0TcT6Z3/cleanilnes-Card.jpg",
+            "overviewCard":"How you Can Protect your Family from Diseases",
+            "img1":"https://i.postimg.cc/wTHFDpVb/clean-Img2.jpg",
+            "header1":"Introduction to Cleanliness",
+            "subHeader1":"Cleanliness means that there is no dirt, no dust, no stains, no bad smells",
+            "answer11":"The goals of cleanliness are health, beauty, absence of offensive odour and to avoid the spreading of dirt and contaminants to oneself and others. With the help of cleanliness, we can keep our physical and mental health clean, which will make us feel good.",
+            "answer12":"Cleanliness gives rise to a good character by keeping body, mind, and soul clean and peaceful. Maintaining cleanliness is the essential part of healthy living because it is the cleanliness only which helps to improve our personality by keeping clean externally and internally. It is everybody’s responsibility and one should keep themselves and their surroundings clean and hygienic. It also brings good and positive thoughts in the mind which slows down the occurrence of diseases.",
+            "img2":"https://i.postimg.cc/Kzvs7yx2/clean-Img1.jpg",
+            "header2":"How you Can Protect your Family from Diseases",
+            "subHeader2":"Here are some simple yet effective ways to protect your family",
+            "answer21":"Wash Your Hands This is the single best way to prevent a cold since hands are the easiest way for viruses to travel. Remind your family to wash their hands often – especially after being in public areas, before eating, and after using the bathroom. Hand sanitizers are another effective way of removing germs from your hands. Disinfect Keep household areas, such as kitchen countertops and bathroom sinks, clean. Clean areas that get touched by many people like doorknobs, telephones, and light switches. Viruses live for up to 3 hours, so if someone is already sick in your house, be sure to disinfect these areas often. Practice Good Sneeze Etiquette Sneezing is another way to spread germs. Teach your family proper sneezing etiquette. It is best to sneeze into a tissue that can be discarded. Washing your hands after sneezing into a tissue will provide extra protection. Teach children to sneeze into their elbows instead of their hands.",
+            "answer22":"Don’t Share Avoid drinking from someone’s glass or sharing utensils, especially during cold season. People are often contagious before they feel symptoms. At parties or social gatherings, use disposable cups or label glasses to avoid mix ups and exposure to other’s germs. Avoid Stress, Stress weakens the immune system and makes you more vulnerable to catching a cold. Find ways to distress like yoga, meditation, or exercise. Eat Well, Eating well is important year round, but it is especially during the winter months. Keep your kitchen stocked with immune boosting foods like dark green leafy vegetables and a rainbow of fruit varieties. Get Enough Sleep, Sleep is crucial to staying healthy. Children need more rest than adults. Doctors recommend that children between 3 and 6 years old get 10-12 hours of sleep per day. Older children need at least 9 hours per night. Avoid Touching Your Face Viruses travel on unwashed hands and enter the body through the nose, mouth, and eyes. Avoid exposure to germs by keeping your hands away from your face, especially when around others who are sick.",
+            "header3":"Importance of Cleanliness",
+            "subHeader3":"Sanitation and neatness play an important role in our day to day routine. ",
+            "answer31":"t is important as it prevents dangerous diseases like Dengue, typhoid, hepatitis, and other diseases caused by mosquito bite, etc.",
+            "answer32":"Diseases like Jaundice, Cholera, Ascariasis, Leptospirosis, Ringworm, Scabies, Schistosomiasis, Trachoma, etc can be spread due to eating contaminated food, drinking contaminated water or living in an unhygienic condition. Trash also spread bad odour which is difficult to tolerate. There will also be an accumulation of trash and dirt if clean measures aren’t taken."
+        },
+        {
+            "id":9,
+            "name":"Cough & Fever",
+            "imgCard":"https://i.postimg.cc/Y0c7d99F/cold-Andfever-Card.jpg",
+            "overviewCard":"Is it Really Just the Fan?",
+            "img1":"https://i.postimg.cc/cLT8PqfC/cold-ANDfever-IMG1.jpg",
+            "header1":"Influenza seasonal",
+            "subHeader1":"Seasonal influenza is an acute respiratory infection caused by influenza viruses which circulate in all parts of the world.",
+            "answer11":"It represents a year-round disease burden. It causes illnesses that range in severity and sometimes lead to hospitalization and death. Most people recover from fever and other symptoms within a week without requiring medical attention. ",
+            "answer12":"However, influenza can cause severe illness or death, particularly among high risk groups including the very young, the elderly, pregnant women, health workers and those with serious medical conditions. In temperate climates, seasonal epidemics occur mainly during winter, while in tropical regions, influenza may occur throughout the year, causing outbreaks more irregularly.",
+            "img2":"https://i.postimg.cc/5yF0tTHB/coldandfeve-Img2.jpg",
+            "header2":"Symptoms",
+            "subHeader2":"Most often, common cold symptoms start 1 to 3 days after someone is exposed to a cold virus. Symptoms vary. They can include:",
+            "answer21":"Runny or stuffy nose. Sore or scratchy throat. Cough. Sneezing. Generally feeling unwell. Slight body aches or a mild headache. Low-grade fever.",
+            "answer22":"The mucus from your nose may start out clear and become thicker and yellow or green. This change is normal. Most often, it doesn't mean that you have a bacterial illness.",
+            "header3":"When to see a doctor",
+            "subHeader3":"For adults. Most often, you don't need medical care for a common cold. But see your health care provider if you have:",
+            "answer31":"Symptoms that get worse or do not get better. Fever greater than 101.3 degrees Fahrenheit (38.5 degrees Celsius) that lasts more than three days. Fever returning after a fever-free period. Shortness of breath. Wheezing. Intense sore throat, headache or sinus pain.",
+            "answer32":" For children. Most children with a common cold don't need to see a health care provider. Get medical care right away if your child has any of the following: Fever of 100.4 degrees Fahrenheit (38 degrees Celsius) in newborns up to 12 weeks, Rising fever or fever lasting more than two days in a child of any age, More-intense symptoms, such as headache, throat pain or cough, Trouble with breathing or wheezing, Ear pain, Fussiness or drowsiness that isn't typical, No interest in eating."
+        }
+
+    ],
+
+    "drinks":
+        [
+            {
+                "id":1,
+                "name":"Pomegranate Juice",
+                "image":"https://i.postimg.cc/nM2ZNYhh/dd1.png",
+                "diseases":"1- Antioxidant effects. 2- Nutrient boost. 3-Cancer prevention. 4-Alzheimer’s disease. 5-Digestion. 6-Inflammatory conditions. 7-Arthritis. 8-Heart disease. 9-Blood pressure. 10-Antimicrobial activity. 11-Memory.",
+                "paragraph":"The powerful pomegranate has been consistently praised recently for the hefty antioxidants it packs. Research has suggested that the red juice may help prevent inflammation, heart disease, and cancer. So having a glass every now and then is a good choice. Just make sure you look at what you are drinking, as some bottles are diluted with other liquids or have added sugars. You want pure pomegranate. Don’t accept anything less."
+            },
+            {
+                "id":2,
+                "name":"Low Fat Milk",
+                "image":"https://i.postimg.cc/c692QDJw/dd2.png",
+                "diseases":"better options for people with heart disease or high cholesterol",
+                "paragraph":"Milk has always been there for you, hasn’t it? Touted as an excellent source of calcium and vitamin D since you were a child, it may seem like less of a grown-up drink than other options, but low fat and skim milk are still great sources of protein and other essential micronutrients. And these low-fat varieties are the best choices because they contain much less saturated fat than reduced-fat milk or whole milk."
+            },
+            {
+                "id":3,
+                "name":"Green Tea",
+                "image":"https://i.postimg.cc/XZbzVm2S/dd3.png",
+                "diseases":"1-Atherosclerosis. 2-High cholesterol. 3-Cancer. 4-Inflammatory Bowel Disease (IBD). 5-Diabetes. 6-Liver disease.",
+                "paragraph":"A cup of green tea is a better choice than a cup of joe when that afternoon slump hits. You are jonesing for a caffeine buzz, so this will do the trick, with just enough caffeine to give you that energy boost but not so much that you crash later. And you'll also get a nice side of antioxidants with each cup."
+            },
+            {
+                "id":4,
+                "name":"Orange Juice",
+                "image":"https://i.postimg.cc/XX7tBMnn/dd4.png",
+                "diseases":"1-Rich in Several Important Nutrients. 2-High in Antioxidants. 3-May Help Prevent Kidney Stones. 4-May Improve Heart Health. 5-May Decrease Inflammation. ",
+                "paragraph":"A glass of fresh squeezed OJ really hits the spot, but some feel it takes too much effort to make on a regular basis. If that is the case, save it for when it will be most handy, like come allergy season. Seasonal allergies have been shown to be soothed with both vitamin C and quercetin (a form of flavonol found in certain fruits and vegetables), both of which that freshly squeezed orange juice contains."
+            },
+            {
+                "id":5,
+                "name":"Beet Juice",
+                "image":"https://i.postimg.cc/qzWFFzy7/dd5.png",
+                "diseases":"1-Good nutritional profile. 2-Improving blood pressure. 3-Reducing inflammation. 4-Preventing anemia. 5-Protecting the liver. ",
+                "paragraph":"Get ready to hear the intimidating resume of the beet. Beets have the ability to lower your blood pressure, increase your stamina, increase the blood flow to the brain in older adults (slowing the progression of dementia), and make for a healthy liver with their zero trans and saturated fats and high magnesium, calcium, and iron levels.The only down side? Beet juice is a little hard to find in most grocery stores, so you may need to make this one at home or order it from a juice bar."
+            },
+            {
+                "id":6,
+                "name":"Hot Chocolate",
+                "image":"https://i.postimg.cc/64yHjXQR/dd6.png",
+                "diseases":"1-Anti-cancer properties. 2-Improves heart health. 3Diabetic prevention. 4-Helps in losing weight. 5-Good for your brain. 6-Lower blood pressure. 7-Good for your skin.",
+                "paragraph":"Yes, cocoa has a place on this list. How could that possibly be? Well if it weren’t for your least favorite monthly friend, it might not have made it. But if you're dealing with menstrual cramps, one of the best natural ways to ease the pain is through drinking beverages with high magnesium content.In order to get that magnesium, you need make your own homemade hot chocolate with raw cocoa powder (not that powdered stuff). If you need to sweeten it up a bit, try almond milk and honey or a little bit of maple syrup."
+            },
+            {
+                "id":7,
+                "name":"Kale Juice",
+                "image":"https://i.postimg.cc/B8TRH48n/dd7.png",
+                "diseases":"1- Protection Against Heart Disease. 2-Protection Against Cancer. 3-Protection Against Alzheimer’s. 4-Protection Against Type 2 Diabetes. 5-Protection to the Eyes .",
+                "paragraph":"Kale, kale, kale. Everybody loves kale. It might seem annoyingly trendy, but there are legitimate reasons why so many people are in love with this stuff. The dark, leafy green is packed with vitamins and minerals that help with everything from bone health to regulating your bowels.And drinking your veggies is an excellent way to get multiple servings in one drink. Just avoid buying bottled, as those varieties tend to be pretty high in sodium. It might not be a bad idea to invest in a juicer and start making kale juice, and other veggie juices, at home."
+            },
+            {
+                "id":8,
+                "name":"Lemon Juice",
+                "image":"https://i.postimg.cc/rKb6LhXM/dd8.png",
+                "diseases":"1-Supports heart health. 2-Help to boost immunity. 3-May improve digestion. 4-Help to control weight. 5-Help to reduce cancer risk. 6-May help in oral disorders. 7-Beneficial for skin. 8-Can Keep Hypertension in Check. 9-Kidney Stone Prevention.",
+                "paragraph":"Yes, you read that right. Not lemonade, lemon juice. You should drink lemon juice. That’s gross right? Well, it certainly takes care of gross stuff for us, like cleansing the liver, stimulating bile production, and helping with digestion. Lemon also brings vitamin C to the party to boost your immune system.But no one was going to make you drink it on its own. Promise. Squeeze a half into a cool glass of water in the morning to get your day going right.And yes, this healthy beverage involves water, but water is really being used as a mixer here. So it still earns a place on this list."
+            },
+            {
+                "id":9,
+                "name":"Ginger Tea",
+                "image":"https://i.postimg.cc/K1LWhxDD/dd9.png",
+                "diseases":"1-May provide relief from motion sickness. 2-May alleviate nausea from morning sickness or chemotherapy. 3-May help manage blood pressure and support heart health. 4-May help manage weight and blood sugar levels. 5-May relieve pain and inflammation. 6-May have cancer-fighting properties. 7-May protect your brain.",
+                "paragraph":"Ginger is an excellent natural remedy for all tummy troubles. It has been promoted as a way to sooth an upset stomach, relieve motion sickness and pregnancy related nausea, and ease digestion.If this sounds like something you might enjoy, brew a cup of fresh ginger tea yourself by steeping one or two thin slices of fresh ginger root in a cup of hot water. Spoon in a little honey if the resulting brew turns out to be on the spicy side."
+            },
+            {
+                "id":10,
+                "name":"Cranberry Juice",
+                "image":"https://i.postimg.cc/ph1Cn6Bd/dd10.png",
+                "diseases":"1-Prevents urinary tract infections (UTIs). 2-Boosts immune system. 3-Promotes digestive health. 4-Prevents cancer. 5-Reduces inflammation. 6-Lowers blood pressure. 7-Improves cardiovascular health. ",
+                "paragraph":"Nobody likes a UTI. And once you have one, it can take up to 2 days after treatment starts for your symptoms to go away. So let’s get on the proactive side of things and help prevent the UTI by drinking pure cranberry juice, which one study found can work “against infections and bacteria within 8 hours of consumption.Now that study used cranberry juice cocktail, because it is the most popular cranberry beverage. But you can get the same benefits from pure cranberry juice and should choose it over cranberry juice cocktail. Why? One is loaded with added sugar. The other is not. Hint: The one with sugar is the one with cocktail in the name"
+            }
+        ]
+}

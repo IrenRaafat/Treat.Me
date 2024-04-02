@@ -1,0 +1,125 @@
+{
+   "systems":
+[
+{
+"id":1,
+"t":"nervous-system",
+"title":"Nervous System",
+"dec":"The nervous system is a complex network of nerves and cells that carry messages to and from the brain and spinal cord to various parts of the body. The proper functioning of these nerves ensures that each organ system, such as the cardiovascular, gastrointestinal, and immune systems, can adequately communicate with one another.",
+
+"dec2":"The nervous system includes the central nervous system (CNS) and peripheral nervous system (PNS). The CNS is made up of the brain and spinal cord, whereas the PNS is made up of the somatic and autonomic nervous systems.",
+
+"image":"https://i.postimg.cc/hvKFb7Hs/nervous-system.png"
+
+},
+
+{
+"id":2,
+"t":"circulatory-system",
+"title":"Circulatory System",
+"dec":"The blood circulatory system is a system of organs that includes the heart, blood vessels, and blood which is circulated throughout the entire body of a human or other vertebrate. It includes the cardiovascular system, or vascular system, that consists of the heart and blood vessels (from Greek kardia meaning heart, and from Latin vascula meaning vessels). ",
+"dec2":"The circulatory system has two divisions, a systemic circulation or circuit, and a pulmonary circulation or circuit.[3] Some sources use the terms cardiovascular system and vascular system interchangeably with the circulatory system.",
+
+"image":"https://i.postimg.cc/J49MFKHY/circulatory-system.png"
+
+},
+
+{
+"id":3,
+"t":"immune-system",
+"title":"Immune System",
+"dec":"The immune system is a network of biological systems that protects an organism from diseases. It detects and responds to a wide variety of pathogens, from viruses to parasitic worms, as well as cancer cells and objects such as wood splinters, distinguishing them from the organism's own healthy tissue. Many species have two major subsystems of the immune system.",
+ "dec2":"The innate immune system provides a preconfigured response to broad groups of situations and stimuli. The adaptive immune system provides a tailored response to each stimulus by learning to recognize molecules it has previously encountered. Both use molecules and cells to perform their functions.",
+
+"image":"https://i.postimg.cc/t4TvhH4L/immune-system.png"
+
+},
+{
+"id":4,
+"t":"respiratory-system",
+"title":"Respiratory System",
+"dec":"The human gas-exchanging organ, the lung, is located in the thorax, where its delicate tissues are protected by the bony and muscular thoracic cage. The lung provides the tissues of the human body with a continuous flow of oxygen and clears the blood of the gaseous waste product, carbon dioxide.",
+"dec2":" Atmospheric air is pumped in and out regularly through a system of pipes, called conducting airways, which join the gas-exchange region with the outside of the body. The airways can be divided into upper and lower airway systems. The transition between the two systems is located where the pathways of the respiratory and digestive systems cross, just at the top of the larynx.",
+
+"image":"https://i.postimg.cc/NGCdBz4D/respiratory.png"
+
+
+},
+{
+"id":5,
+"title":"Digestive System",
+"t":"digestive-system",
+"dec":"The human digestive system consists of the gastrointestinal tract plus the accessory organs of digestion (the tongue, salivary glands, pancreas, liver, and gallbladder). Digestion involves the breakdown of food into smaller and smaller components, until they can be absorbed and assimilated into the body.",
+"dec2":" The process of digestion has three stages: the cephalic phase, the gastric phase, and the intestinal phase.",
+
+"image":"https://i.postimg.cc/Y9sCC7jM/gastrointestinal-tract.png"
+
+},
+{
+"id":6,
+"title":"Urinary Tract",
+"t":"urinary-tract",
+"dec":"The urinary tract is the body’s drainage system for removing urine, which is made up of wastes and extra fluid. For normal urination to occur, all body parts in the urinary tract need to work together, and in the correct order.",
+
+"dec2":"The urinary tract includes two kidneys, two ureters, a bladder, and a urethra.",
+
+"image":"https://i.postimg.cc/rwkxk1vg/urinary-tract.png"
+
+},
+{
+"id":7,
+"title":"Lymphatic System",
+"t":"lymphatic-system",
+"dec":"Your lymphatic system is a group of organs, vessels and tissues that protect you from infection and keep a healthy balance of fluids throughout your body. Lymphatic system organs include your bone marrow, thymus and lymph nodes. Swollen lymph nodes are a sign of common infections, like strep throat, but also more serious diseases like cancer.",
+"dec2":"The lymphatic system, or lymphoid system, is an organ system in vertebrates that is part of the immune system, and complementary to the circulatory system. It consists of a large network of lymphatic vessels, lymph nodes, lymphoid organs, lymphoid tissues and lymph.",
+
+"image":"https://i.postimg.cc/MGrnvVrC/lymphatic-system.png"
+
+},
+{
+"id":8,
+"title":"Reproductive system",
+"t":"reproductive-system",
+"dec":"The reproductive system of an organism, also known as the genital system, is the biological system made up of all the anatomical organs involved in sexual reproduction. Many non-living substances such as fluids, hormones, and pheromones are also important accessories to the reproductive system. ",
+"dec2":"Unlike most organ systems, the sexes of differentiated species often have significant differences. These differences allow for a combination of genetic material between two individuals, which allows for the possibility of greater genetic fitness of the offspring.",
+
+"image":"https://i.postimg.cc/dtmDGzxm/reproductive-system.png"
+
+},
+{
+"id":9,
+"title":"Endocrine System",
+"t":"endocrine-system",
+"dec":"The endocrine system is a messenger system in an organism comprising feedback loops of hormones that are released by internal glands directly into the circulatory system and that target and regulate distant organs. In vertebrates, the hypothalamus is the neural control center for all endocrine systems.",
+
+"dec2":"the major endocrine glands are the thyroid, parathyroid, pituitary, pineal, and adrenal glands, and the (male) testes and (female) ovaries. The hypothalamus, pancreas, and thymus also function as endocrine glands, among other functions.",
+
+"image":"https://i.postimg.cc/JnZRMXwc/endocrine-system.png"
+
+},
+{
+"id":10,
+"title":"Musculoskeletal System",
+"t":"musculoskeletal-system",
+"dec":"The human musculoskeletal system (also known as the human locomotor system, and previously the activity system) is an organ system that gives humans the ability to move using their muscular and skeletal systems. The musculoskeletal system provides form, support, stability, and movement to the body.",
+
+"dec2":"It is made up of the bones of the skeleton, muscles, cartilage, tendons, ligaments, joints, and other connective tissue that supports and binds tissues and organs together. The musculoskeletal system's primary functions include supporting the body, allowing motion, and protecting vital organs.The skeletal portion of the system serves as the main storage system for calcium and phosphorus and contains critical components of the hematopoietic system.",
+
+"image":"https://i.postimg.cc/qvhYPTH2/musculoskeletal-system.png"
+
+},
+
+{
+"id":11,
+"title":"Skin",
+"t":"skin",
+"dec":"Skin is the largest organ in the body and covers the body's entire external surface. It is made up of three layers, the epidermis, dermis, and the hypodermis, all three of which vary significantly in their anatomy and function. The skin's structure is made up of an intricate network which serves as the body’s initial barrier against pathogens, UV light, and chemicals, and mechanical injury. ",
+"dec2":"It also regulates temperature and the amount of water released into the environment.Skin is the layer of usually soft, flexible outer tissue covering the body of a vertebrate animal, with three main functions: protection, regulation, and sensation.",
+
+"image":"https://i.postimg.cc/KzNsPcth/integumentary-system.png"
+
+}
+
+
+]
+}
